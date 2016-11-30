@@ -8,10 +8,11 @@
 
 * [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
 * [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
-* [วีดีโอสอนเป็นภาษาไทย](#)
-* [วีดีโอสอนเป็นภาษาอังกฤษ](#)
-* [คอร์สเรียนฟรีจากทั่วโลก](#)
-* [แหล่งความรู้อื่นๆ](#)
+* [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
+* [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
+* [คอร์สเรียนฟรีจากทั่วโลก](##คอร์สเรียนฟรีจากทั่วโลก)
+* [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
+
 
 ## หนังสือ Ebooks ฟรี ภาษาไทย
 
@@ -115,7 +116,7 @@
 * [Big Data, Data Science, Data Mining, Machine Learning, Python, R และอื่นๆ มากว่า 60 เล่ม] (http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
 
-## คลิปวีดีโอสอนฟรี
+## วีดีโอสอนฟรีเป์นภาษาไทย
 
 *** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**  
 https://www.apple.com/th/support/itunes-u/using/ 
@@ -192,7 +193,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 
-###  วีดีโอสอนเป็นภาษาอังกฤษ
+##  วีดีโอสอนเป็นภาษาอังกฤษ
 
 * [มีทั้ง ebooks หรือวิดีโอ ไฟล์ 500 GB ](https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ](https://github.com/Developer-Y/cs-video-courses)
