@@ -186,7 +186,6 @@ https://www.apple.com/th/support/itunes-u/using/
    - https://www.youtube.com/watch?v=Gc7hiDtDcRg
    - https://www.youtube.com/watch?v=oc3kgVyrCrc
    - https://www.youtube.com/watch?v=MuhOC3KjOcs
-
 * [วีดีโออื่นของ SIPA ](https://www.youtube.com/channel/UCgWqtSlHS0hCFlV4OfcAmAQ)
 * [ส่วนคอร์สเรียนอื่น ๆ ที่น่าสนใจของจุฬาฯ ผ่านทาง itunes](https://itunes.apple.com/th/institution/chulalongkorn-university/id920032112?uo=8&at=10l6dJ)
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
