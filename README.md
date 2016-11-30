@@ -2,7 +2,7 @@
 
 เรียนอย่างนี้นะครับว่า ตั้งแต่ผมทำ [แฟนเพจ](https://www.facebook.com/programmerthai/) ก็ได้เผยแพร่ลิงค์ต่างๆ ที่เป็นความรู้ไว้เยอะมาก จึงรู้ว่าความรู้ที่คนไทยเผยแพร่มีเยอะ แต่เวลาโพสต์บนเพจ มันไล่หายาก สะเปะสะปะ ไม่เป็นระเบียบ ผมเลยถือโอกาสจัดรวบรวมเท่าที่ทำได้ เพื่อให้ค้นหาได้ง่ายหน่อย __ต่อไปก็จะมีเพิ่มขึ้นเรื่อยๆ ถ้าหาเจอนะ__ (ใครมีอะไรแนะนำก็แตก Branch แล้ว commit มาได้เลยครับ)
 
-แหล่งเรียนรู้ส่วนใหญ่ ก็จะเป็น e-book วีดีโอ ล้วนแจกฟรี  เน้นเป็น __ภาษาไทย__ เป็นหลัก เหมาะกับผู้ศึกษาศาสตร์ทางคอมพิวเตอร์เริ่มต้น ที่ภาษาอังกฤษอาจยังไม่แข็งแรงมากนัก โดยเน้นไปทางการเขียนโปรแกรมเป็นหลัก แต่ก็มีภาษาอังกฤษด้วย เผื่อคนสนใจ
+แหล่งเรียนรู้ส่วนใหญ่ ก็จะเป็น e-book, วีดีโอ, เน้นไปที่ __ภาษาไทย__ เป็นหลัก เหมาะกับผู้ศึกษาศาสตร์ทางคอมพิวเตอร์เริ่มต้น ที่ภาษาอังกฤษอาจยังไม่แข็งแรงมากนัก โดยเน้นไปทางการเขียนโปรแกรมเป็นหลัก แต่ก็มีภาษาอังกฤษด้วย เผื่อคนสนใจ
 
 # สารบัญ
 
@@ -157,10 +157,11 @@ https://www.apple.com/th/support/itunes-u/using/
 * [สอน iOS (เก่าไปหน่อย) สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=MKCCt3S2yw8&list=PLoTScYm9O0GEvMbeONJ-9C5Euv_mUeXW0)
 
 ### Database
-* [สอน SQL สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=D5243hqy2BM&list=PLoTScYm9O0GH8gYuxpp-jqu5Blc7KbQVn)
-* [สอน PHP สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=5F1rldiGcAo&list=PLoTScYm9O0GGolOrNAKCVAFrP64961c37)
+* [สอน SQL โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=D5243hqy2BM&list=PLoTScYm9O0GH8gYuxpp-jqu5Blc7KbQVn)
+* [สอน PHP โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=5F1rldiGcAo&list=PLoTScYm9O0GGolOrNAKCVAFrP64961c37)
 
 ### Data science กับ Machine Learning
+
 * [สอนเรื่อง “Big Data” สำหรับงาน Data Science (วิทยาศาสตร์ด้านข้อมูล) .สอนโดย คณาจารย์คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย เช่น ศ.ดร. ประภาส จงสถิตย์วัฒนา และ รศ.ดร. อติวงศ์ สุชาโต เป็นต้น ดูผ่าน iTune](https://itunes.apple.com/th/itunes-u/big-data/id1109952360?l=th&mt=10)
 * Machine Learning  ผู้สอนโดย Dr. Warasinee Chaisangmongkon
    - [Machine Learning Workshop (part 1)](https://www.facebook.com/bigdataexperience/videos/1569784483324081/)
@@ -175,7 +176,8 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### อื่นๆ ที่น่าสนใจ
 
-* [10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto (IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd]] (https://www.youtube.com/playlist?list=PLmB7S3pD-s_yjstDZZZAYGhNi7kw2EFv1)
+* [10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto (IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd]] 
+    - https://www.youtube.com/playlist?list=PLmB7S3pD-s_yjstDZZZAYGhNi7kw2EFv1
 
 * Google Engine โดย SIPA
    - https://www.youtube.com/watch?v=fidqISUDVQ8
@@ -191,8 +193,8 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ###  วีดีโอสอนเป็นภาษาอังกฤษ
 
-* [วีดีโอเป็นคอร์สภาษาอังกฤษ ไฟล์ 500 GB ](https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
-* [Computer Science (lectures) ฟรีจากทั่วโลกครับ] (https://github.com/Developer-Y/cs-video-courses)
+* [มีทั้ง ebooks หรือวิดีโอ ไฟล์ 500 GB ](https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
+* [Computer Science (lectures) ฟรีจากทั่วโลกครับ](https://github.com/Developer-Y/cs-video-courses)
 
 ## คอร์สเรียนฟรีจากทั่วโลก
  
@@ -208,7 +210,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ## แหล่งความรู้อื่นๆ
 
-* [awesome] https://github.com/sindresorhus/awesome
+* [awesome] (https://github.com/sindresorhus/awesome)
 
 
 
