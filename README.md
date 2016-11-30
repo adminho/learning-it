@@ -116,3 +116,93 @@
 * [openstax.org เป็นแนวเลข วิทยาศาสตร์](https://openstax.org/)
 
 
+## คลิปวีดีโอสอนฟรี
+*** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**  https://www.apple.com/th/support/itunes-u/using/ 
+
+### PHP
+* [Laravel  โดย SIPA](https://www.youtube.com/watch?v=C3vmNI5Whus&index=1&list=PLtM3znnbMbVUCSplQZ4Wl5KwOj6Inz__n)
+
+### ภาษา C
+* [ภาษา C โดย SIPA](https://www.youtube.com/watch?v=5HoW47BB9ME&list=PLpuOOb1LNswPrfGbihe4umjfmtAX8Ccwc)
+
+### Python
+* [ภาษา Python โดย SIPA](https://www.youtube.com/watch?v=KcAX613khH4&list=PLtM3znnbMbVWZ1ICKEi7Gr9dxdJc_ppel)
+*  [บทเรียนวิชาการเขียนโปรแกรมสำหรับนิสิต ปี 1 คณะวิศวกรรมศาสตร์ ภาคปลาย ปีการศึกษา 2558 (ใช้ Python เป็นพื้นฐาน) รหัสวิชา 2110101 Computer Programming (2558-2)  สอนโดยดร. สมชาย ประสิทธิ์จูตระกูล](https://www.youtube.com/playlist?list=PL0ROnaCzUGB4ieaQndKybT9xyoq2n9NGq)
+* [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
+
+
+### JavaScript
+* [MEAN stack โดย SIPA](https://www.youtube.com/watch?v=bw6P10BKQ9M&list=PLtM3znnbMbVXD0fygCTsblC2sLZvSPY8g)
+
+### Java
+* [สอน Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN0)
+
+* การใช้ JPA ของภาษา Java  - เอาไว้ติดต่อฐานข้อมูลแบบ Object-Relational Mapping (ORM) ]
+- https://www.youtube.com/watch?v=MIXk5s0gg18 
+- https://www.youtube.com/watch?v=_DDsFVMs6mQ
+
+### iOS and Swift
+* [สอนเขียนโปรแกรมบนระบบ iOS ด้วยภาษา Swift สำหรับผู้เริ่มต้น (Beginner)](https://www.youtube.com/watch?v=awIkuWxsvhU&list=PLqjILcSzXkgdmFaAGZz0f48i8nuKyYDVf)
+* [สอน iOS (เก่าไปหน่อย) สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=MKCCt3S2yw8&list=PLoTScYm9O0GEvMbeONJ-9C5Euv_mUeXW0)
+
+### Security 
+* [10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto](IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd](https://www.youtube.com/playlist?list=PLmB7S3pD-s_yjstDZZZAYGhNi7kw2EFv1)
+
+### ภาษา R
+* สอนภาษา R สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย
+- https://www.youtube.com/watch?v=UaEtZ5XzVeE&list=PLoTScYm9O0GGSiUGzdWbjxIkZqEO-O6qZ
+- https://www.youtube.com/watch?v=Y-u1aTq6B0Q&list=PLoTScYm9O0GEvw9bN_Q8nRdDUPyaSymqM
+-https://www.youtube.com/watch?v=RVfULyntsxY&list=PLoTScYm9O0GFEu7flht1Fv_gsT2mizgP
+
+### Database
+* [สอน SQL สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=D5243hqy2BM&list=PLoTScYm9O0GH8gYuxpp-jqu5Blc7KbQVn)
+* [สอน PHP สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=5F1rldiGcAo&list=PLoTScYm9O0GGolOrNAKCVAFrP64961c37)
+
+### Data science กับ Machine Learning
+* [สอนเรื่อง “Big Data” สำหรับงาน Data Science (วิทยาศาสตร์ด้านข้อมูล) .สอนโดย คณาจารย์คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย เช่น ศ.ดร. ประภาส จงสถิตย์วัฒนา และ รศ.ดร. อติวงศ์ สุชาโต เป็นต้น ดูผ่าน iTune](https://itunes.apple.com/th/itunes-u/big-data/id1109952360?l=th&mt=10)
+* Machine Learning  ผู้สอนโดย Dr. Warasinee Chaisangmongkon
+- [Machine Learning Workshop (part 1)](https://www.facebook.com/bigdataexperience/videos/1569784483324081/)
+- [Machine Learning Workshop (Part 2)](https://www.facebook.com/bigdataexperience/videos/1569800019989194/)
+- [Machine Learning Workshop (Part 3)](https://www.facebook.com/bigdataexperience/videos/1569814079987788/)
+- [Machine Learning Workshop (Part 4)](https://www.facebook.com/bigdataexperience/videos/1569818656653997/)
+- [ไสลด์ประกอบการบรรยายเป็น PDF](https://drive.google.com/drive/folders/0B_K_-nCSCP1Dcjlua19VUlFRNG8)
+
+### Agile 
+* [Playlist  8 คลิป สอน Agile โดยคุณ Chokchai Phatharamalai (Juacompe)  เป็นโครงการที่ม. เกษตรศาสตร์ ร่วมมือกับ SIPA](https://www.youtube.com/watch?v=HBSjj1LFDZY&list=PL3opfZU99soltwbe-9CV6DUeVTWd-TCiT&index=1)
+
+### อื่นๆ ที่น่าสนใจ
+* [Google Engine โดย SIPA]
+- https://www.youtube.com/watch?v=fidqISUDVQ8
+- https://www.youtube.com/watch?v=Gc7hiDtDcRg
+- https://www.youtube.com/watch?v=oc3kgVyrCrc
+- https://www.youtube.com/watch?v=MuhOC3KjOcs
+ 
+* [วีดีโออื่นของ SIPA ](https://www.youtube.com/channel/UCgWqtSlHS0hCFlV4OfcAmAQ)
+* [ส่วนคอร์สเรียนอื่น ๆ ที่น่าสนใจของจุฬาฯ ผ่านทาง itunes](https://itunes.apple.com/th/institution/chulalongkorn-university/id920032112?uo=8&at=10l6dJ)
+* [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
+*[ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
+* [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
+
+###  วีดีโอสอนเป็นภาษาอังกฤษ
+* [วีดีโอเป็นคอร์สภาษาอังกฤษ ไฟล์ 500 GB ](https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
+* [Computer Science (lectures) ฟรีจากทั่วโลกครับ] (https://github.com/Developer-Y/cs-video-courses)
+
+## คอร์สเรียนฟรีจากทั่วโลก
+ รายชื่อเว็บไซต์ที่เปิดคอร์สสอนการโค้ดดิ่ง (ภาษาอังกฤษ) น่าจะเป็นประโยชน์ มีทั้งฟรี และเสียเงิน คละกันไป
+
+* [Codecademy](http://www.codecademy.com/)
+* [KhanAcademy](https://www.khanacademy.org/)
+* [Coursera](https://www.coursera.org/)
+* [Udacity](https://www.udacity.com/)
+* [EdX](https://www.edx.org/) 
+* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
+* [Harvard](http://online-learning.harvard.edu/)
+
+## แหล่งความรู้อื่นๆ
+
+* [awesome] https://github.com/sindresorhus/awesome
+
+
+
+
+
