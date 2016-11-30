@@ -110,8 +110,9 @@
 
 * [คู่มือเตรียมสอบ Microsoft 70-410 เขียนโดย Brian Svidergol](https://start.netwrix.com/download/Guides/PDFdownload.php?pdf=study_guide_70-410_exam.pdf&h=ZAQH8pl1A)
 * http://ebook-dl.com/computer
-* [เว็บนี้จะมี ebook มาหมุนเวียนแจกฟรี ทั้งนี้เราต้องกดดาวน์โหลดให้ทันภาย 24 ชั่วโมง]https://www.packtpub.com/packt/offers/free-learning
+* [เว็บนี้จะมี ebook มาหมุนเวียนแจกฟรี ทั้งนี้เราต้องกดดาวน์โหลดให้ทันภาย 24 ชั่วโมง](https://www.packtpub.com/packt/offers/free-learning)
 * [openstax.org เป็นแนวเลข วิทยาศาสตร์](https://openstax.org/)
+* [Big Data, Data Science, Data Mining, Machine Learning, Python, R และอื่นๆ มากว่า 60 เล่ม] (http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 
 
 ## คลิปวีดีโอสอนฟรี
