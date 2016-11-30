@@ -8,10 +8,7 @@
 # สารบัญ
 
 * [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
-   - [JavaScript](##javascrip)
-   - [HTML and CSS](##)
-   - [PHP](##php)
-* [รวมลิงค์ Text book ฟรี](#)
+* [รวมลิงค์ Text book ฟรี](#รวมลิงค์-Text-book-ฟรี)
 * [วีดีโอสอนเป็นภาษาไทย](#)
 * [วีดีโอสอนเป็นภาษาอังกฤษ](#)
 * [คอร์สเรียนฟรีจากทั่วโลก](#)
@@ -25,7 +22,7 @@
 
 * [รีวีวจาวาสคริปต์ (JavaScript) ECMAScript 2016 หรือ ES7 (ต่อยอดมาจาก ES6 หรือ ECMAScript 2015)](http://www.ebooks.in.th/download/40184/รีวีวฟรีเจอร์ใหม่ในจาวาสคริปต์_(JavaScript)_มาตรฐาน_ES7_(ECMAScript_2016)/)
 * [วิธีติดตั้ง_Node.js_และ_npm_เบื้องต้น (Node.js เวอร์ชั่น 6)](http://ebooks.in.th/ebook/37385/วิธีติดตั้ง_Node.js_และ_npm_เบื้องต้น/)
-* [Node.js เล่ม 1](http://www.ebooks.in.th/ebook/37714/เสียดายไม่ได้อ่าน_จาวาสคริปต์ฝั่งเซิร์ฟเวอร์_Node.js_(ฉบับย่อ)/
+* [Node.js เล่ม 1](http://www.ebooks.in.th/ebook/37714/เสียดายไม่ได้อ่าน_จาวาสคริปต์ฝั่งเซิร์ฟเวอร์_Node.js_(ฉบับย่อ)/)
 * [Node.js กับ 2](http://www.ebooks.in.th/ebook/37836/เสียดายไม่ได้อ่าน_จาวาสคริปต์ฝั่งเซิร์ฟเวอร์_Node.js_ฉบับย่อ_เล่ม2)
 * [JavaScript เขียนโดยคุณ กฤษณวัฒน์ แก้วแสนเมือง](https://www.dropbox.com/s/tb0ydw695pw2ppx/javscript%20the%20complete%20referrence.pdf?dl=0)
 * [แปลคู่มือ meteor ซึ่งมันเป็นแพทลฟอร์มเอาไว้ใช้สร้างเว็บแอพแบบเรียลไทม์พร้อมทั้ง build เป็นโมบายแอพได้ด้วย โดยใช้ภาษาจาวาสคริปต์เป็นหลักในการพัฒนา](http://th.discovermeteor.com/pdf)
@@ -43,18 +40,7 @@
 * [เล่มนี้ PHP เขียนโดยคุณ กฤษณวัฒน์ แก้วแสน](https://drive.google.com/file/d/0BxK5WvPOY-I3MlIxQ3FRRG5QbEE/view)
 * [Laravel 4 เฟรมเวิร์คฝั่ง php (ฉบับแปล) ปัจจุบันเวอร์ชั่น 5 แล้ว  เขียนโดย Krissanawat Kaewsanmuang](https://leanpub.com/thailaraveldoc/read)
 
-### Swift และ IOS
-
-* [Thai Swift เขียนโดย Tanasak Tantitarntong (เนื้อหาเก่าหน่อย เพราะอนาคตก็ Swift 3 แหละ)](https://leanpub.com/ThaiSwift)
-* [คู่มืออบรม เขียนโปรแกรมบน IOS ด้วยภาษา Swift เขียนโดย มาสเตอร์ อึ่ง](https://docs.google.com/file/d/0BxPdSFnhyBbIaHJ3NHFrNS1IV0E/edit?pref=2&pli=1)
-
-### ภาษาโปรแกรมอื่นๆ 
-
-* [ภาษาโกวเล้ง Go เขียนโดย http://golang.in.th/](http://www.patanasongsivilai.com/blog/golang/)
-* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
-
-
-### Java และ Android
+### Java and Android
 
 * [หนังสือ Java ผู้เขียนเป็นใครไม่รู้ (รู้ว่าเป็นของลาดกระบัง) เนื้อหาค่อนข้างเก่าหน่อยนะครับ เพราะตอนนี้มัน Java 8 ปีหน้าก็เป็น Java 9 แล้ว](http://drucs.com/index.php?action=dlattach;topic=344.0;attach=95)
 * [คู่มืออบรมการพัฒนาโปรแกรมแอนดรอยด์ ขั้นพื้นฐาน เขียนโดย มาสเตอร์ อึ่ง](http://www.ebooks.in.th/ebook/4188/คู่มืออบรมการพัฒนาโปรแกรมแอนดรอยด์_ขั้นพื้นฐาน/)
@@ -64,10 +50,20 @@
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
 
-### C และ C++
+### C and C++
 
 * [สอน C และ C++ เนื้อหาเก่าหน่อย เพราะเดี่ยวมาตรฐานตัวใหม่ก็ออกมา C++ 17](http://lovelywal.exteen.com/20080517/e-book-c-c)
 * [การเขียนโปรแกรมภาษาซี (เก่าหน่อยตั้งแต่ปี 2545) เขียนโดย วิจักษณ์ ศรีสัจจะเลิศวาจา และดุษฎี ประเสริฐธิติพงษ์](http://61.7.241.229/CProgrammingV2.pdf)
+
+### Swift and IOS
+
+* [Thai Swift เขียนโดย Tanasak Tantitarntong (เนื้อหาเก่าหน่อย เพราะอนาคตก็ Swift 3 แหละ)](https://leanpub.com/ThaiSwift)
+* [คู่มืออบรม เขียนโปรแกรมบน IOS ด้วยภาษา Swift เขียนโดย มาสเตอร์ อึ่ง](https://docs.google.com/file/d/0BxPdSFnhyBbIaHJ3NHFrNS1IV0E/edit?pref=2&pli=1)
+
+### ภาษาโปรแกรมอื่นๆ 
+
+* [ภาษาโกวเล้ง Go เขียนโดย http://golang.in.th/](http://www.patanasongsivilai.com/blog/golang/)
+* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
 
 ### UNIX
 
@@ -83,12 +79,11 @@
 * [จำลองเว็บเซิร์ฟเวอร์ ด้วยชุดโปรแกรม XAMPP เขียนโดย ปกป้อง](http://www.ebooks.in.th/ebook/8866/จำลองเว็บเซิร์ฟเวอร์_ด้วยชุดโปรแกรม_XAMPP/)
 * [คู่มือการใช้งาน WiNginx เขียนโดย Suparat triamchanchai](http://www.ebooks.in.th/ebook/28367/คู่มือการใช้งาน_WiNginx/)
 
-
 ### Database
 
-*  [การใช้งาน_MongoDB_เบื้องต้น](http://www.ebooks.in.th/ebook/37861/การใช้งาน_MongoDB_เบื้องต้น/)
+* [การใช้งาน_MongoDB_เบื้องต้น](http://www.ebooks.in.th/ebook/37861/การใช้งาน_MongoDB_เบื้องต้น/)
 
-### IoT (internet of things)  และ Embedded system
+### IoT (internet of things)  and Embedded system
 
 * [Introduction to Wireless Sensor Networks-แนะนำเครือข่ายเซนเซอร์ไร้สาย เขียนโดย คุณ วรรณรัช สันติอมรทัต และ สกุณา เจริญปัญญาศักดิ์](http://www.nectec.or.th/news/news-public-document/introwsn.html)
 * [Embedded Android Development สู่เส้นทางนักพัฒนา เขียนโดย วิรุฬห์ ศรีบริรักษ์ (อ.จอม)](https://docs.google.com/forms/d/14GNLWBJIkD2QmoJtpG7nbBHdLT7KBLsFHRn-plfzxtE/viewform)
@@ -98,6 +93,7 @@
 * [แอจไจล์ซามูไร โดย www.agile66.com](https://www.dropbox.com/s/8vdift5avp6wa1d/AgileSamurai1.0.pdf?dl=0)
 
 ### AI, Data Mining และ Data science 
+
 * [คู่มือการใช้งาน Weka Explorer (เอาไว้ใช้ทำ ( Data Mining ) เบื้องต้น เขียนโดย ดร. เอกสิทธิ์ พัชรวงศ์ศักดา]( http://dataminingtrend.com/2014/free-weka-book/)
 
 ### หนังสืออื่นๆ เกี่ยวกับคอม
