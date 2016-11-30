@@ -115,6 +115,7 @@
 
 
 ## คลิปวีดีโอสอนฟรี
+
 *** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**  
 https://www.apple.com/th/support/itunes-u/using/ 
 
@@ -132,7 +133,6 @@ https://www.apple.com/th/support/itunes-u/using/
 *  [บทเรียนวิชาการเขียนโปรแกรมสำหรับนิสิต ปี 1 คณะวิศวกรรมศาสตร์ ภาคปลาย ปีการศึกษา 2558 (ใช้ Python เป็นพื้นฐาน) รหัสวิชา 2110101 Computer Programming (2558-2)  สอนโดยดร. สมชาย ประสิทธิ์จูตระกูล](https://www.youtube.com/playlist?list=PL0ROnaCzUGB4ieaQndKybT9xyoq2n9NGq)
 * [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
 
-
 ### JavaScript
 
 * [MEAN stack โดย SIPA](https://www.youtube.com/watch?v=bw6P10BKQ9M&list=PLtM3znnbMbVXD0fygCTsblC2sLZvSPY8g)
@@ -140,7 +140,6 @@ https://www.apple.com/th/support/itunes-u/using/
 ### Java
 
 * [สอน Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN0)
-
 * การใช้ JPA ของภาษา Java  - เอาไว้ติดต่อฐานข้อมูลแบบ Object-Relational Mapping (ORM)
   - https://www.youtube.com/watch?v=MIXk5s0gg18 
   - https://www.youtube.com/watch?v=_DDsFVMs6mQ
@@ -153,8 +152,9 @@ https://www.apple.com/th/support/itunes-u/using/
   - https://www.youtube.com/watch?v=RVfULyntsxY&list=PLoTScYm9O0GFEu7flht1Fv_gsT2mizgP
 
 ### iOS and Swift
+
 * [สอนเขียนโปรแกรมบนระบบ iOS ด้วยภาษา Swift สำหรับผู้เริ่มต้น (Beginner)](https://www.youtube.com/watch?v=awIkuWxsvhU&list=PLqjILcSzXkgdmFaAGZz0f48i8nuKyYDVf)
-* [สอน iOS (เก่าไปหน่อย) สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=MKCCt3S2yw8&list=PLoTScYm9O0GEvMbeONJ-9C5Euv_mUeXW0)
+* [สอน iOS (เก่าไปหน่อย) โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=MKCCt3S2yw8&list=PLoTScYm9O0GEvMbeONJ-9C5Euv_mUeXW0)
 
 ### Database
 * [สอน SQL โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=D5243hqy2BM&list=PLoTScYm9O0GH8gYuxpp-jqu5Blc7KbQVn)
@@ -176,7 +176,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### อื่นๆ ที่น่าสนใจ
 
-* [10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto (IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd]] 
+* 10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto (IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd 
     - https://www.youtube.com/playlist?list=PLmB7S3pD-s_yjstDZZZAYGhNi7kw2EFv1
 
 * Google Engine โดย SIPA
@@ -210,7 +210,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ## แหล่งความรู้อื่นๆ
 
-* [awesome] (https://github.com/sindresorhus/awesome)
+* [awesome](https://github.com/sindresorhus/awesome)
 
 
 
