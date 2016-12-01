@@ -12,7 +12,7 @@
 * [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
 * [คอร์สเรียนฟรีจากทั่วโลก](##คอร์สเรียนฟรีจากทั่วโลก)
 * [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
-
+* [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
 
 ## หนังสือ Ebooks ฟรี ภาษาไทย
 
@@ -192,7 +192,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 
-##  วีดีโอสอนเป็นภาษาอังกฤษ
+## วีดีโอสอนเป็นภาษาอังกฤษ
 
 * [มีทั้ง ebooks หรือวิดีโอ ไฟล์ 500 GB ](https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ](https://github.com/Developer-Y/cs-video-courses)
@@ -213,7 +213,12 @@ https://www.apple.com/th/support/itunes-u/using/
 
 * [awesome](https://github.com/sindresorhus/awesome)
 
+## แนะนำกลุ่ม facebook 
 
+กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไที 
 
+* [สมาคมโปรแกรมเมอร์ไทย - กลุ่มรวมวงการโปรแกรมเมอร์ใหญ่ที่สุดในไทย](https://www.facebook.com/groups/ThaiPGAssociateSociety/)
+* [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
+* [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/?ref=group_browse_new)
 
 
