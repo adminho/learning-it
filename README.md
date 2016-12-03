@@ -9,6 +9,7 @@
 * [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
 * [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
 * [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
+* [บทความเจ๋งๆ เห็นแล้วร้องว้าว](#บทความเจ๋งๆ-เห็นแล้วร้องว้าว)
 * [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
 * [คอร์สเรียนฟรีจากทั่วโลก](##คอร์สเรียนฟรีจากทั่วโลก)
 * [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
@@ -192,6 +193,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
 * [ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
+
+## บทความเจ๋งๆ เห็นแล้วร้องว้าว
+
+ค้างไว้ก่อน มีเเดี่ยวมาใส่
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 
