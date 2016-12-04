@@ -65,7 +65,7 @@
 
 ### Python
 
-* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
+* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
 
 ### ภาษาโปรแกรมอื่นๆ 
 
@@ -218,7 +218,7 @@ https://www.apple.com/th/support/itunes-u/using/
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 
 * [มีทั้ง ebooks หรือวิดีโอ ไฟล์ 500 GB ](https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
-* [Computer Science (lectures) ฟรีจากทั่วโลกครับ](https://github.com/Developer-Y/cs-video-courses)
+* [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses)
 
 ## คอร์สเรียนฟรีจากทั่วโลก
  
