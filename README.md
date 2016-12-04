@@ -142,9 +142,19 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
 * [Python เบื้องต้นแบบรวบรัด 30 นาที](https://www.youtube.com/watch?v=UXJ_iogbivw)
 
+### HTML5
+
+* [สอน HTML เบื้องต้น ของคุณ Kong Ruksiam](#https://www.youtube.com/watch?v=OU_bwaht7kM&list=PLEE74DyIkwElVMA4srMkyGn8ekDcQ8h2K)
+
 ### JavaScript
 
 * [MEAN stack โดย SIPA](https://www.youtube.com/watch?v=bw6P10BKQ9M&list=PLtM3znnbMbVXD0fygCTsblC2sLZvSPY8g)
+* [JavaScript เบื้องต้น ของคุณ Kong Ruksiam ](#https://www.youtube.com/playlist?list=PLEE74DyIkwEkkj5Rizo01MUgFRfsi2hiV)
+* [การใช้งาน JQuery (JavaScript Library) ของคุณ Kong Ruksiam](https://www.youtube.com/playlist?list=PLEE74DyIkwEnD_OUSB1MZxL3R0PgE94Fs)
+
+### CSS
+
+* [การใช้งาน Bootstrap (CSS FrameWork) ของคุณ Kong Ruksiam] (https://www.youtube.com/playlist?list=PLEE74DyIkwEkdDtOOxRcPTDhiBvI7w5cg)
 
 ### Java
 
@@ -166,8 +176,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [สอน iOS (เก่าไปหน่อย) โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=MKCCt3S2yw8&list=PLoTScYm9O0GEvMbeONJ-9C5Euv_mUeXW0)
 
 ### Database
+
 * [สอน SQL โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=D5243hqy2BM&list=PLoTScYm9O0GH8gYuxpp-jqu5Blc7KbQVn)
 * [สอน PHP โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=5F1rldiGcAo&list=PLoTScYm9O0GGolOrNAKCVAFrP64961c37)
+* [สอน SQL เบื้องต้น  ของคุณ Kong Ruksiam](https://www.youtube.com/watch?v=aDvRyO0RC_Y&list=PLEE74DyIkwEnmch_sru7oxEAJ96TBZbvD)
 
 ### Data science กับ Machine Learning
 
@@ -196,7 +208,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [วีดีโออื่นของ SIPA ](https://www.youtube.com/channel/UCgWqtSlHS0hCFlV4OfcAmAQ)
 * [ส่วนคอร์สเรียนอื่น ๆ ที่น่าสนใจของจุฬาฯ ผ่านทาง itunes](https://itunes.apple.com/th/institution/chulalongkorn-university/id920032112?uo=8&at=10l6dJ)
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
-* [ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
+* [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 
 ## บทความเจ๋งๆ เห็นแล้วร้องว้าว
