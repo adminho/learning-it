@@ -63,10 +63,13 @@
 * [Thai Swift เขียนโดย Tanasak Tantitarntong (เนื้อหาเก่าหน่อย เพราะอนาคตก็ Swift 3 แหละ)](https://leanpub.com/ThaiSwift)
 * [คู่มืออบรม เขียนโปรแกรมบน IOS ด้วยภาษา Swift เขียนโดย มาสเตอร์ อึ่ง](https://docs.google.com/file/d/0BxPdSFnhyBbIaHJ3NHFrNS1IV0E/edit?pref=2&pli=1)
 
+### Python
+
+* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
+
 ### ภาษาโปรแกรมอื่นๆ 
 
 * [ภาษาโกวเล้ง Go เขียนโดย http://golang.in.th/](http://www.patanasongsivilai.com/blog/golang/)
-* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
 
 ### UNIX
 
