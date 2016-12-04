@@ -83,6 +83,10 @@
 * [คู่มือฝึกอบรมปฏิบัติการ Linux Server Security เขียนโดย บุญลือ อยู่คงคง](http://ebooks.in.th/ebook/584/คู่มือฝึกอบรมปฏิบัติการ_Linux_Server_Security/)
 * [คู่มือพลเมืองเน็ต: เข้าใจเน็ต และใช้เน็ตให้ปลอดภัย เขียนโดย วสันต์ ลิ่วลมไพศาล และ สฤณี อาชวานันทกุล](https://thainetizen.org/wp-content/uploads/2013/05/netizen-handbook-201304.pdf)
 * [คู่มือการใช้งาน WiNginx เขียนโดย Suparat triamchanchai](http://www.ebooks.in.th/ebook/28367/คู่มือการใช้งาน_WiNginx/)
+* [E-Book เกี่ยวกับ Introduction To MS. Azure สำหรับท่านที่สนใจเรื่อง Cloud โดยเฉพาะ Microsoft Azure 
+เขียนโดย ITGeist 5 (By Wisit) | itgeist5blog.blogspot.com](
+https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
+
 
 ### Database
 
