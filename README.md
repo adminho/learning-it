@@ -144,12 +144,12 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### HTML5
 
-* [สอน HTML เบื้องต้น ของคุณ Kong Ruksiam](#https://www.youtube.com/watch?v=OU_bwaht7kM&list=PLEE74DyIkwElVMA4srMkyGn8ekDcQ8h2K)
+* [สอน HTML เบื้องต้น ของคุณ Kong Ruksiam](https://www.youtube.com/watch?v=OU_bwaht7kM&list=PLEE74DyIkwElVMA4srMkyGn8ekDcQ8h2K)
 
 ### JavaScript
 
 * [MEAN stack โดย SIPA](https://www.youtube.com/watch?v=bw6P10BKQ9M&list=PLtM3znnbMbVXD0fygCTsblC2sLZvSPY8g)
-* [JavaScript เบื้องต้น ของคุณ Kong Ruksiam ](#https://www.youtube.com/playlist?list=PLEE74DyIkwEkkj5Rizo01MUgFRfsi2hiV)
+* [JavaScript เบื้องต้น ของคุณ Kong Ruksiam ](https://www.youtube.com/playlist?list=PLEE74DyIkwEkkj5Rizo01MUgFRfsi2hiV)
 * [การใช้งาน JQuery (JavaScript Library) ของคุณ Kong Ruksiam](https://www.youtube.com/playlist?list=PLEE74DyIkwEnD_OUSB1MZxL3R0PgE94Fs)
 
 ### CSS
