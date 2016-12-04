@@ -199,7 +199,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
   Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
-  และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนักแล้วตั้งชื่อให้มันว่า Deep Learning
+  และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning
 
 ### Agile 
 
