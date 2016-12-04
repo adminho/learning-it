@@ -213,7 +213,9 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ## บทความเจ๋งๆ เห็นแล้วร้องว้าว
 
-ค้างไว้ก่อน มีเเดี่ยวมาใส่
+__ค้างไว้ก่อน มีเเดี่ยวมาใส่ให้__
+
+* [JavaSctipt มาตรฐาน ES5,ES6,ES8 ]https://github.com/adminho/javascript/
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 
