@@ -194,6 +194,12 @@ https://www.apple.com/th/support/itunes-u/using/
    - [Machine Learning Workshop (Part 3)](https://www.facebook.com/bigdataexperience/videos/1569814079987788/)
    - [Machine Learning Workshop (Part 4)](https://www.facebook.com/bigdataexperience/videos/1569818656653997/)
    - [ไสลด์ประกอบการบรรยายเป็น PDF](https://drive.google.com/drive/folders/0B_K_-nCSCP1Dcjlua19VUlFRNG8)
+* [Machine Learning Curriculum](https://gist.github.com/off99555/b6190df237562aa6e8c922c485dc7ad0)
+  List รวมลิงค์ขนาดใหญ่เกี่ยวกับ Machine Learning (ภาษาอังกฤษเป็นหลัก)
+
+  Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
+  เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
+  และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning
 
 ### Agile 
 
