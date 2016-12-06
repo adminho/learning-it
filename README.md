@@ -220,7 +220,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
 * [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam] (https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
-* [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก แปลโดยได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
+* [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 
 
 
@@ -228,7 +228,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 __ค้างไว้ก่อน มีเเดี่ยวมาใส่ให้__
 
-* [JavaSctipt มาตรฐาน ES5,ES6,ES8 ]https://github.com/adminho/javascript/
+* [JavaSctipt มาตรฐาน ES5,ES6,ES8 ](https://github.com/adminho/javascript/)
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 
