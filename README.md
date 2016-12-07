@@ -162,13 +162,12 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### Java
 
-* [เริ่มเรียนเขียนโปรแกรม (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm)
 * [Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN0)
 * การใช้ JPA ของภาษา Java  - เอาไว้ติดต่อฐานข้อมูลแบบ Object-Relational Mapping (ORM)
   - https://www.youtube.com/watch?v=MIXk5s0gg18 
   - https://www.youtube.com/watch?v=_DDsFVMs6mQ
-* [การเขียนโปรแกรมด้วยภาษาจาวา โดย รศ.ดร.สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm)
-  สอนดีมาก พยายามใช้คำภาษาไทยเยอะสุดเพื่อไม่ให้คนที่รู้ภาษาอังกฤษน้อยงง และมีเนื้อหาที่ครอบคลุมกระทัดรัด
+* [การเขียนโปรแกรมด้วยภาษาจาวา โดย รศ.ดร.สมชาย ประสิทธิ์จูตระกูล สอนดีมาก พยายามใช้คำภาษาไทยเยอะสุดเพื่อไม่ให้คนที่รู้ภาษาอังกฤษน้อยงง และมีเนื้อหาที่ครอบคลุมกระทัดรัด](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm)
+  
 
 ### ภาษา R
 
