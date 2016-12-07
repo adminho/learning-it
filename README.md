@@ -167,6 +167,7 @@ https://www.apple.com/th/support/itunes-u/using/
   - https://www.youtube.com/watch?v=MIXk5s0gg18 
   - https://www.youtube.com/watch?v=_DDsFVMs6mQ
 * [การเขียนโปรแกรมด้วยภาษาจาวา โดย รศ.ดร.สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm)
+  
   > สอนดีมาก พยายามใช้คำภาษาไทยเยอะสุดเพื่อไม่ให้คนที่รู้ภาษาอังกฤษน้อยงง และมีเนื้อหาที่ครอบคลุมกระทัดรัด
 
 ### ภาษา R
