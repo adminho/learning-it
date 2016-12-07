@@ -162,6 +162,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### Java
 
+* [เริ่มเรียนเขียนโปรแกรม (ฉบับจาวา) ของรศ. ดร.  สมชาย ประสิทธิ์จูตระกูล  จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm)
 * [Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN0)
 * การใช้ JPA ของภาษา Java  - เอาไว้ติดต่อฐานข้อมูลแบบ Object-Relational Mapping (ORM)
   - https://www.youtube.com/watch?v=MIXk5s0gg18 
@@ -184,6 +185,11 @@ https://www.apple.com/th/support/itunes-u/using/
 * [สอน SQL โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=D5243hqy2BM&list=PLoTScYm9O0GH8gYuxpp-jqu5Blc7KbQVn)
 * [สอน PHP โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=5F1rldiGcAo&list=PLoTScYm9O0GGolOrNAKCVAFrP64961c37)
 * [สอน SQL เบื้องต้น  ของคุณ Kong Ruksiam](https://www.youtube.com/watch?v=aDvRyO0RC_Y&list=PLEE74DyIkwEnmch_sru7oxEAJ96TBZbvD)
+
+### Data structure และ algorithm
+
+* [การออกแบบอัลกอริทึม ของอาจารย์ สมชาย ประสิทธิ์จูตระกูล  จากจุฬ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
+* [โครงสร้างข้อมูล (ฉบับจาวา) ของอาจารย์ สมชาย ประสิทธิ์จูตระกูล  จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
 
 ### Data science กับ Machine Learning
 
