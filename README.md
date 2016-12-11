@@ -271,7 +271,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [รายชื่อกลุ่มต่างๆ อืน] https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/
 
 
-## ภาพรวมการพัฒนาเว็บทั้งฝั่ง Font-end และ Back-end
+## ภาพรวมการพัฒนาเว็บทั้งฝั่ง Front-end และ Back-end
 
 ![frontend programmer] (https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.png)
 
