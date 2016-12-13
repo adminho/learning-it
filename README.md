@@ -253,6 +253,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [KhanAcademy](https://www.khanacademy.org/)
 * [Coursera](https://www.coursera.org/)
 * [Udacity](https://www.udacity.com/)
+* [Sololearn](https://www.sololearn.com/)
 * [EdX](https://www.edx.org/) 
 * [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
 * [Harvard](http://online-learning.harvard.edu/)
