@@ -277,21 +277,20 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ![frontend programmer] (https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.png)
 
-สามารถโหลดเป็น PDF ได้ที่
-
-* https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.pdf
+สามารถโหลดภาพเป็น PDF ได้ที่
+* https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.pdf
 
 ![web_development](https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.png)
 
-สามารถโหลดเป็น PDF ได้ที่
+สามารถโหลดภาพเป็น PDF ได้ที่
+* https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.pdf
 
-* https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.pdf
 
 ## ภาพรวมการใช้ภาษาโปรแกรมมิ่ง แยกย่อยตามสายงานที่สำคัญๆ (ไม่ได้จำกัดแค่เว็บไซต์)
 
 สามารถโหลดเป็น pdf ได้ที่
 https://coggle-downloads.s3.amazonaws.com/89493f7126a00f349174978e4f4127f8059319ad2e1460dc74ea151f005db644/3_Basic_Programming_languages.pdf
 
-![programming Languages]
-https://coggle-downloads.s3.amazonaws.com/89493f7126a00f349174978e4f4127f8059319ad2e1460dc74ea151f005db644/3_Basic_Programming_languages.png
+![programming Languages](
+https://coggle-downloads.s3.amazonaws.com/89493f7126a00f349174978e4f4127f8059319ad2e1460dc74ea151f005db644/3_Basic_Programming_languages.png)
 
