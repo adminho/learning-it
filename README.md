@@ -286,8 +286,8 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ## ภาพรวมการใช้ภาษาโปรแกรมมิ่ง แยกย่อยตามสายงานที่สำคัญ
 
-[สามารถโหลดเป็น pdf ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/d7c42d72395e2c675bf339dc037ba61b4aa3c37df6a42efc330d1e52c59cef23/3_Basic_Programming_languages.pdf)
+[สามารถโหลดภาพเป็น pdf ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/9e3a5a87b4c13578a085cc5fe531a5826beaba055d8ca3db0b870fe36512e1a0/3_Basic_Programming_languages.pdf)
 
 ![programming Languages](
-https://coggle-downloads.s3.amazonaws.com/d7c42d72395e2c675bf339dc037ba61b4aa3c37df6a42efc330d1e52c59cef23/3_Basic_Programming_languages.png)
+https://coggle-downloads.s3.amazonaws.com/9e3a5a87b4c13578a085cc5fe531a5826beaba055d8ca3db0b870fe36512e1a0/3_Basic_Programming_languages.png)
 
