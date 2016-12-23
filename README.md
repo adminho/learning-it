@@ -31,17 +31,18 @@
 * [แปลคู่มือ meteor ซึ่งมันเป็นแพทลฟอร์มเอาไว้ใช้สร้างเว็บแอพแบบเรียลไทม์พร้อมทั้ง build เป็นโมบายแอพได้ด้วย โดยใช้ภาษาจาวาสคริปต์เป็นหลักในการพัฒนา](http://th.discovermeteor.com/pdf)
 * [เกมง่ายๆแบบ HTA ด้วย JavaScript เขียนโดย ธรรมรัตน์ พรหมพิงค์](http://www.ebooks.in.th/ebook/34499/เกมง่ายๆแบบ_HTA_ด้วย_JavaScript/)
 * [Angular 1 เวอร์ชั่นเก่าหน่อย เพราะปัจจุบันเป็น Angular 2 เขียนโดย ถาวร ศรีเสนพิลา](http://www.javathailand.com/downloads/AngularJS-Basic-to-Professional-Full.pdf)
+* [คู่มือการใช้งาน javascript เบื้องต้น javascript the complete reference เขียนโดย กฤษณวัฒน์ แก้วแสน] http://ebooks.in.th/ebook/42309/คู่มือการใช้งาน_javascript_เบื้องต้น_javascript_the_complete_reference/
 
 ### HTML and CSS
 
-* [เล่มนี้ CSS เขียนโดยคุณ กฤษณวัฒน์ แก้วแสนเมือง](https://www.dropbox.com/s/bz5gju71tv213hq/Css%20the%20Complete%20Referrence.pdf?dl=0)
-* [เล่มนี้ HTML เขียนโดยคุณ กฤษณวัฒน์ แก้วแสน](https://www.dropbox.com/s/yutcrdo5c121ye5/html%20the%20complete%20referrence.pdf?dl=0)
+* [คู่มือการใช้งาน Css The Complete Reference ฉบับสมบูรณ์ เวอร์ชัน beta เขียนโดยคุณ กฤษณวัฒน์ แก้วแสนเมือง](http://ebooks.in.th/ebook/42293/คู่มือการใช้งาน_Css_The_Complete_Reference__ฉบับสมบูรณ์_เวอร์ชัน_beta/)
+* [คู่มือการใช้งาน HTML ฉบับสมบูรณ์ เวอร์ชัน beta เขียนโดยคุณ กฤษณวัฒน์ แก้วแสน](http://ebooks.in.th/ebook/41953/คู่มือการใช้งาน_HTML_ฉบับสมบูรณ์_เวอร์ชัน_beta/)
 
 ### PHP
 
 * [PHP The Right Way (เป็นเว็บ)](https://apzentral.github.io/php-the-right-way/)
-* [เล่มนี้ PHP เขียนโดยคุณ กฤษณวัฒน์ แก้วแสน](https://drive.google.com/file/d/0BxK5WvPOY-I3MlIxQ3FRRG5QbEE/view)
-* [Laravel 4 เฟรมเวิร์คฝั่ง php (ฉบับแปล) ปัจจุบันเวอร์ชั่น 5 แล้ว  เขียนโดย Krissanawat Kaewsanmuang](https://leanpub.com/thailaraveldoc/read)
+* [คู่มือการใช้งาน php ฟังก์ชันพื้นฐานกว่า 400+ คำสั่ง PHP เขียนโดยคุณ กฤษณวัฒน์ แก้วแสน](http://ebooks.in.th/ebook/41630/คู่มือการใช้งาน_php_ฟังก์ชันพื้นฐานกว่า_400__คำสั่ง/)
+* [Laravel 4 เฟรมเวิร์คฝั่ง php (ฉบับแปล) ปัจจุบันเวอร์ชั่น 5 แล้ว  เขียนโดย กฤษณวัฒน์ แก้วแสน](https://leanpub.com/thailaraveldoc/read)
 
 ### Java and Android
 
@@ -138,6 +139,10 @@ https://www.apple.com/th/support/itunes-u/using/
 ### ภาษา C
 
 * [ภาษา C โดย SIPA](https://www.youtube.com/watch?v=5HoW47BB9ME&list=PLpuOOb1LNswPrfGbihe4umjfmtAX8Ccwc)
+
+### ภาษา C# 
+
+* [โดย Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists?sort=dd&view=50&shelf_id=1)
 
 ### Python
 
