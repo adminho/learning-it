@@ -31,7 +31,7 @@
 * [แปลคู่มือ meteor ซึ่งมันเป็นแพทลฟอร์มเอาไว้ใช้สร้างเว็บแอพแบบเรียลไทม์พร้อมทั้ง build เป็นโมบายแอพได้ด้วย โดยใช้ภาษาจาวาสคริปต์เป็นหลักในการพัฒนา](http://th.discovermeteor.com/pdf)
 * [เกมง่ายๆแบบ HTA ด้วย JavaScript เขียนโดย ธรรมรัตน์ พรหมพิงค์](http://www.ebooks.in.th/ebook/34499/เกมง่ายๆแบบ_HTA_ด้วย_JavaScript/)
 * [Angular 1 เวอร์ชั่นเก่าหน่อย เพราะปัจจุบันเป็น Angular 2 เขียนโดย ถาวร ศรีเสนพิลา](http://www.javathailand.com/downloads/AngularJS-Basic-to-Professional-Full.pdf)
-* [คู่มือการใช้งาน javascript เบื้องต้น javascript the complete reference เขียนโดย กฤษณวัฒน์ แก้วแสน] http://ebooks.in.th/ebook/42309/คู่มือการใช้งาน_javascript_เบื้องต้น_javascript_the_complete_reference/
+* [คู่มือการใช้งาน javascript เบื้องต้น javascript the complete reference เขียนโดย กฤษณวัฒน์ แก้วแสน] (http://ebooks.in.th/ebook/42309/คู่มือการใช้งาน_javascript_เบื้องต้น_javascript_the_complete_reference/)
 
 ### HTML and CSS
 
@@ -43,6 +43,7 @@
 * [PHP The Right Way (เป็นเว็บ)](https://apzentral.github.io/php-the-right-way/)
 * [คู่มือการใช้งาน php ฟังก์ชันพื้นฐานกว่า 400+ คำสั่ง PHP เขียนโดยคุณ กฤษณวัฒน์ แก้วแสน](http://ebooks.in.th/ebook/41630/คู่มือการใช้งาน_php_ฟังก์ชันพื้นฐานกว่า_400__คำสั่ง/)
 * [Laravel 4 เฟรมเวิร์คฝั่ง php (ฉบับแปล) ปัจจุบันเวอร์ชั่น 5 แล้ว  เขียนโดย กฤษณวัฒน์ แก้วแสน](https://leanpub.com/thailaraveldoc/read)
+* [ตัวอย่าง คู่มือการใช้งาน Yii 2 พื้นฐาน ฉบับอ้างอิงจาก document หลัก เขียนโดย กฤษณวัฒน์ แก้วแสน](http://ebooks.in.th/ebook/43090/%5Bตัวอย่าง%5D_คู่มือการใช้งาน_Yii_2_พื้นฐาน_ฉบับอ้างอิงจาก_document_หลัก/)
 
 ### Java and Android
 
@@ -275,7 +276,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด] (https://www.facebook.com/groups/thaidroiddev/)
-* [รายชื่อกลุ่มต่างๆ อืน] https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/
+* [รายชื่อกลุ่มต่างๆ อืน] (https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
 
 
 ## ภาพรวมการพัฒนาเว็บทั้งฝั่ง Front-end และ Back-end
