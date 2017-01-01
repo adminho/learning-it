@@ -23,7 +23,7 @@
 
 ### JavaScript
 
-* [รีวีวจาวาสคริปต์ (JavaScript) ECMAScript 2016 หรือ ES7 (ต่อยอดมาจาก ES6 หรือ ECMAScript 2015)](http://www.ebooks.in.th/download/40184/รีวีวฟรีเจอร์ใหม่ในจาวาสคริปต์_(JavaScript)_มาตรฐาน_ES7_(ECMAScript_2016)/)
+* [รีวีวจาวาสคริปต์ (JavaScript) ECMAScript 2016 (ES7) กับ ECMAScript 2017 (ES8) ซึ่งต่อยอดมาจาก ECMAScript 2015 (ES6)](http://www.ebooks.in.th/ebook/40184/รีวีวฟรีเจอร์ใหม่ในจาวาสคริปต์_(JavaScript)_มาตรฐาน_ES7__ES8__(ECMAScript_2016_กับ_ECMAScript_2017)/)
 * [วิธีติดตั้ง_Node.js_และ_npm_เบื้องต้น (Node.js เวอร์ชั่น 6)](http://ebooks.in.th/ebook/37385/วิธีติดตั้ง_Node.js_และ_npm_เบื้องต้น/)
 * [Node.js เล่ม 1](http://www.ebooks.in.th/ebook/37714/เสียดายไม่ได้อ่าน_จาวาสคริปต์ฝั่งเซิร์ฟเวอร์_Node.js_(ฉบับย่อ)/)
 * [Node.js กับ 2](http://www.ebooks.in.th/ebook/37836/เสียดายไม่ได้อ่าน_จาวาสคริปต์ฝั่งเซิร์ฟเวอร์_Node.js_ฉบับย่อ_เล่ม2)
