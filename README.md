@@ -170,7 +170,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### Java
 
-* [Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN0)
+* [Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN)
 * การใช้ JPA ของภาษา Java  - เอาไว้ติดต่อฐานข้อมูลแบบ Object-Relational Mapping (ORM)
   - https://www.youtube.com/watch?v=MIXk5s0gg18 
   - https://www.youtube.com/watch?v=_DDsFVMs6mQ
