@@ -235,8 +235,6 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 
-
-
 ## บทความเจ๋งๆ เห็นแล้วร้องว้าว
 
 __ค้างไว้ก่อน มีเเดี่ยวมาใส่ให้__
@@ -266,10 +264,12 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [EdX](https://www.edx.org/) 
 * [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
 * [Harvard](http://online-learning.harvard.edu/)
+* กลุ่ม Ivry League 8 แห่ง ประกอบด้วย Brown, Harvard, Cornell, Princeton, Dartmouth, Yale, Columbia universities, the University of Pennsylvania เปิดคอร์สเรียน 250 วิชา เยอะมาก แน่นอนรวมทั้งสายคอมด้วย [ตามลิงคนี้เลย](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.nlto1ewre)
 
 ## แหล่งความรู้อื่นๆ
 
 * [awesome](https://github.com/sindresorhus/awesome)
+* [Machine learning กับ Deep learning มีทั้งติวเตอร์ บทความ และแหล่งความรู้อื่นๆ อีกเพียบ] (https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## แนะนำกลุ่ม facebook 
 
