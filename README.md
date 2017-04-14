@@ -120,6 +120,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [สร้างเว็บบล็อกด้วย Joomla 3 เขียนโดย มานิตย์ กริ่งรัมย์](http://ebooks.in.th/ebook/24083/สร้างเว็บบล็อกด้วย_Joomla_3/)
 * [สนุกกับการเขียนโปรแกรมด้วย Scratch2 เขียนโดย ธรรมรัตน์ พรหมพิงค์](http://www.ebooks.in.th/ebook/34623/สนุกกับการเขียนโปรแกรมด้วย_Scratch2/)
 * [คู่มือพื้นฐานใช้งาน Adobe Photoshop CS3 เขียนโดย มานิตย์ กริ่งรัมย์](http://ebooks.in.th/ebook/32514/คู่มือพื้นฐานใช้งาน_Adobe_Photoshop_CS3/)
+* [Web Security - ความปลอดภัยของเว็บ ของ อาจารย์ Thawatchai Chomsiri](https://www.researchgate.net/publication/315943371_Web_Security_-_khwamplxdphaykhxngweb)
+
 
 ## รวมลิงค์ Text book ฟรี
 
