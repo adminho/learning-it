@@ -276,6 +276,18 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Machine learning กับ Deep learning มีทั้งติวเตอร์ บทความ และแหล่งความรู้อื่นๆ อีกเพียบ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
+# อันนี้ไม่เกี่ยวกับคอมพิวเตอร์เท่าไร แต่อยากแชร์
+
+เอาใจคนที่เรียนอยู่สายวิทย์คณิต หรือจะเข้าเรียนต่อมหาลัย แปลเป็นไทยมาจากคอร์สออนไลน์ระดับโลก Khan Academy ซึ่งได้รับการสนับสนุนจาก ["มูลนิธิศักดิ์พรทรัพย์"](http://www.kusol.org/khanacademythailand/)  แปลนี้ไม่ใช่เป็นซับสไคร้นะครัช แต่สอนบรรยายภาษาไทยเลยแหละ เนื้อหาดีมากเลย
+
+* [คณิตศาสตร์ ม. ต้น](http://www.kusol.org/khan-mathjunior/)
+* [คณิตศาสตร์ ม. ปลาย](http://www.kusol.org/khan-mathsenior/)
+* [คณิตศาสตร์ พิชคณิตเบื้องต้น](http://www.kusol.org/khan-math-prealgebra/)
+* [คณิตศาสตร์ พีชคณิต](http://www.kusol.org/khan-math-algebra/)
+* [ฟิสิกส์ ม. ปลาย](http://www.kusol.org/khan-physics/)
+* [เคมี](http://www.kusol.org/khan-chemistry/)
+* [ชีวะ](http://www.kusol.org/khan-biology/)
+
 ## แนะนำกลุ่ม facebook 
 
 กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไอที 
