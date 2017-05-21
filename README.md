@@ -288,6 +288,13 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [เคมี](http://www.kusol.org/khan-chemistry/)
 * [ชีวะ](http://www.kusol.org/khan-biology/)
 
+คอร์สเรียนฟรี จากม. ชั้นระดับโลก จะมีเนื้อหาหลายวิชารวมกัน ต้องแยกแยะเลือกเรียนดู (ถ้าจะเลือกเรียนแต่คอม)
+* [Harvard Open Courses](http://online-learning.harvard.edu/)
+* [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)
+* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+* [Stadford Free Courses](http://online.stanford.edu/courses)
+* [Open Yale Courses คอร์สด้านเกี่ยวกับคอมยังไม่มี](http://oyc.yale.edu/)
+
 ## แนะนำกลุ่ม facebook 
 
 กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไอที 
@@ -308,7 +315,6 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 ![web_development](https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.png)
 
 [สามารถดาวน์โหลดภาพเป็น PDF ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.pdf)
-
 
 ## ภาพรวมการใช้ภาษาโปรแกรมมิ่ง แยกย่อยตามสายงานที่สำคัญ
 
