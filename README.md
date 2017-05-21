@@ -276,7 +276,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Machine learning กับ Deep learning มีทั้งติวเตอร์ บทความ และแหล่งความรู้อื่นๆ อีกเพียบ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-# อันนี้ไม่เกี่ยวกับคอมพิวเตอร์เท่าไร แต่อยากแชร์
+## อันนี้ไม่เกี่ยวกับคอมพิวเตอร์เท่าไร แต่อยากแชร์
 
 เอาใจคนที่เรียนอยู่สายวิทย์คณิต หรือจะเข้าเรียนต่อมหาลัย แปลเป็นไทยมาจากคอร์สออนไลน์ระดับโลก Khan Academy ซึ่งได้รับการสนับสนุนจาก ["มูลนิธิศักดิ์พรทรัพย์"](http://www.kusol.org/khanacademythailand/)  แปลนี้ไม่ใช่เป็นซับสไคร้นะครัช แต่สอนบรรยายภาษาไทยเลยแหละ เนื้อหาดีมากเลย
 
