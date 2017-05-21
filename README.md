@@ -308,13 +308,9 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ## ภาพรวมการพัฒนาเว็บทั้งฝั่ง Front-end และ Back-end
 
-![frontend programmer] (https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.png)
+![web_development](https://coggle-downloads.s3.amazonaws.com/b72d9295469532d1bf565e9884e03a8fba9a14698c8d7e9197e5574ea3cddd93/Web_Development.png)
 
-[สามารถดาวน์โหลดภาพเป็น PDF ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/49e5776e17045b4615af8ab87e75f5ae305779093dd574ee2044e6035316dc75/How_to_be_a_good_frontend_programmer.pdf)
-
-![web_development](https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.png)
-
-[สามารถดาวน์โหลดภาพเป็น PDF ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/ffa893c87f6ae8a35b7343568a270942b6d1d5ffbc62301829fe2ad4dbed19e7/Web_Development.pdf)
+[สามารถดาวน์โหลดภาพเป็น PDF ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/91f9efcf43c8459cf124b46bad86c19b259fa41b33e3169c39c6057ef0ac8946/Web_Development.pdf)
 
 ## ภาพรวมการใช้ภาษาโปรแกรมมิ่ง แยกย่อยตามสายงานที่สำคัญ
 
