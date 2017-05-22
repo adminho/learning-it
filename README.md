@@ -1,6 +1,6 @@
 # แหล่งเรียนรู้ด้านคอมพิวเตอร์ ฟรี (เน้นภาษาไทย)
 
-เรียนอย่างนี้นะครับว่า ตั้งแต่ผมทำเพจ facebook มา ก็ได้แชร์ลิงค์ต่างๆ ที่เป็นความรู้ไว้เยอะมาก จึงรู้ว่าความรู้ที่คนไทยเผยแพร่มีเยอะ แต่ปัญหาใหญ่เวลาโพสต์บนเพจ มันไล่หายาก สะเปะสะปะ ไม่เป็นระเบียบ ผมเลยถือโอกาสจัดรวบรวมเท่าที่ทำได้ เพื่อให้ค้นหาได้ง่ายหน่อย __ต่อไปก็จะมีเพิ่มขึ้นเรื่อยๆ ถ้าหาเจอนะ__ 
+เรียนอย่างนี้นะครับว่า ตั้งแต่ผมทำเพจ facebook มา ก็ได้แชร์ลิงค์ต่างๆ ที่เป็นความรู้ไว้เยอะมาก จึงรู้ว่าความรู้ที่คนไทยเผยแพร่มีเยอะ แต่ปัญหาใหญ่เวลาโพสต์บนเพจ มันไล่หายาก สะเปะสะปะ ไม่เป็นระเบียบ ผมเลยถือโอกาสจัดรวบรวมเท่าที่ทำได้ เพื่อให้ค้นหาได้ง่ายหน่อย __ต่อไปก็จะมีเพิ่มขึ้นเรื่อยๆ ไม่ได้หยุดเท่านี้ ถ้าหาเจอนะ__ 
 
 > ใครมีอะไรแนะนำก็แตก Branch แล้ว commit มาได้เลยครับ ถ้าเห็นมีประโยชน์เดี่ยว merge ให้ หรือใครไม่สะดวกก็ทัก inbox มาที่เพจ [แฟนเพจ](https://www.facebook.com/programmerthai/)
 
@@ -201,6 +201,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [การออกแบบอัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
 * [โครงสร้างข้อมูล (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
 
+### Network
+
+[CISCO Network พื้นฐาน ของคุณ  Chaiwat Amornhirunwong](https://www.youtube.com/channel/UCEQgv8reNP_X94R2tMw842Q/videos)
+
 ### Data science กับ Machine Learning
 
 * [สอนเรื่อง “Big Data” สำหรับงาน Data Science (วิทยาศาสตร์ด้านข้อมูล) .สอนโดย คณาจารย์คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย เช่น ศ.ดร. ประภาส จงสถิตย์วัฒนา และ รศ.ดร. อติวงศ์ สุชาโต เป็นต้น ดูผ่าน iTune](https://itunes.apple.com/th/itunes-u/big-data/id1109952360?l=th&mt=10)
@@ -270,6 +274,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [คอร์สเรียนฟรีออนไลน์ มากกว่า 438+ สอนเขียนโปรแกรม และ Computer Science จัดหมวดหมู่แบ่งเป็น 3 ระดับ ได้แก่ เริ่มต้น, ปานกลาง, ระดับสูง](https://medium.freecodecamp.com/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
 * [รวมคอร์สเรียน Machine learning](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [รวม 13 คอร์สเรียน Deep learning](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0?source=user_profile---------1)
+* [สอบ CCNA ของ Cisco โดย David Bombal วิชาที่สอน CCNA Exam 200-125, 100-105 and 200-105](https://www.youtube.com/playlist?list=PLhfrWIlLOoKN-QsGKGaWwmJDOaiJJSyYX)
 
 ## แหล่งความรู้อื่นๆ
 
@@ -293,7 +298,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 * [Stadford Free Courses](http://online.stanford.edu/courses)
-* [Open Yale Courses คอร์สด้านเกี่ยวกับคอมยังไม่มี](http://oyc.yale.edu/)
+* [Open Yale Courses (คอร์สด้านเกี่ยวกับคอมยังไม่มี)](http://oyc.yale.edu/)
 
 ## แนะนำกลุ่ม facebook 
 
