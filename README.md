@@ -130,7 +130,11 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [เว็บนี้จะมี ebook มาหมุนเวียนแจกฟรี ทั้งนี้เราต้องกดดาวน์โหลดให้ทันภาย 24 ชั่วโมง](https://www.packtpub.com/packt/offers/free-learning)
 * [openstax.org เป็นแนวเลข วิทยาศาสตร์](https://openstax.org/)
 * [Big Data, Data Science, Data Mining, Machine Learning, Python, R และอื่นๆ มากว่า 60 เล่ม](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
-
+* รายชื่อตำราฟรีของเว็บ packtpub.com อันนี้เป็นสาย Machine learning ตลอดรวมทั้ง  Data scientist
+  [สอนเขียน Neural Network ด้วยภาษา Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java)
+  [สอนสร้างระบบ Machine learning ด้วยภาษา Python (เนื้อหาจะใช้ไลบรารี่พื้นฐาน เช่น Numpy, ScipY, scikit-learn และ Matplotlib )](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
+  [แนะนำ machine learning ออกไปแนวปฏิบัติ ใช้ Python (Anaconda) ในการอธิบายเนื้อหา](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning)
+  [นำ machine learning ไปใช้ในงาน data-analysis](https://www.packtpub.com/packt/free-ebook/practical-data-analysis)
 
 ## วีดีโอสอนฟรีเป์นภาษาไทย
 
@@ -203,7 +207,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### Network
 
-[CISCO Network พื้นฐาน ของคุณ  Chaiwat Amornhirunwong](https://www.youtube.com/channel/UCEQgv8reNP_X94R2tMw842Q/videos)
+* [สอน CISCO Network พื้นฐาน ของคุณ  Chaiwat Amornhirunwong](https://www.youtube.com/channel/UCEQgv8reNP_X94R2tMw842Q/videos)
 
 ### Data science กับ Machine Learning
 
