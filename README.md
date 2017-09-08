@@ -309,7 +309,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ของมหาวิทยาลัยไทย
 * [Thai MOOC](https://www.thaimooc.org/)
-* [http://www.thaicyberu.go.th/](http://www.thaicyberu.go.th/)
+* [โครงการมหาวิทยาลัยไซเบอร์ไทย](http://www.thaicyberu.go.th/)
 * [คอร์สเรียนออนไลน์ฟรี ที่จุฬาลงกรณ์มหาวิทยาลัย](https://mooc.chula.ac.th/)
 
 ## แนะนำกลุ่ม facebook 
