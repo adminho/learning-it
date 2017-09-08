@@ -13,7 +13,7 @@
 * [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
 * [บทความเจ๋งๆ เห็นแล้วร้องว้าว](#บทความเจ๋งๆ-เห็นแล้วร้องว้าว)
 * [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
-* [คอร์สเรียนฟรีจากทั่วโลก](##คอร์สเรียนฟรีจากทั่วโลก)
+* [คอร์สเรียนฟรีจากทั่วโลก](#คอร์สเรียนฟรีจากทั่วโลก)
 * [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
 * [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
 
@@ -271,8 +271,8 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Udacity](https://www.udacity.com/)
 * [Sololearn](https://www.sololearn.com/)
 * [EdX](https://www.edx.org/) 
-* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
-* [Harvard](http://online-learning.harvard.edu/)
+* [Future Learn](https://www.futurelearn.com/)
+* [OpenLearning]((https://www.openlearning.com/)
 * กลุ่ม Ivry League 8 แห่ง ประกอบด้วย Brown, Harvard, Cornell, Princeton, Dartmouth, Yale, Columbia universities, the University of Pennsylvania เปิดคอร์สเรียน 250 วิชา เยอะมาก แน่นอนรวมทั้งสายคอมด้วย [ตามลิงคนี้เลย](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.nlto1ewre)
 * [คอร์สเรียนฟรีออนไลน์ มากกว่า 438+ สอนเขียนโปรแกรม และ Computer Science จัดหมวดหมู่แบ่งเป็น 3 ระดับ ได้แก่ เริ่มต้น, ปานกลาง, ระดับสูง](https://medium.freecodecamp.com/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
 * [รวมคอร์สเรียน Machine learning](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
@@ -296,12 +296,21 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [เคมี](http://www.kusol.org/khan-chemistry/)
 * [ชีวะ](http://www.kusol.org/khan-biology/)
 
+อันนี้ของจุฬา
+* [สื่อการสอนวิทยาศาสตร์และคณิตศาสตร์ ระดับมัธยมศึกษาตอนปลาย](http://courseware.sc.chula.ac.th/online/สื่อการสอนวิทยาศาสตร์และคณิตศาสตร์%20ระดับมัธยมศึกษาตอนปลาย/)
+* [จุฬาลงกรณ์มหาวิทยาลัยจัดทำห้องสมุดออนไลน์ (Online Library) สู่สังคมไทย](http://media.lic.chula.ac.th/)
+
 คอร์สเรียนฟรี จากม. ชั้นระดับโลก จะมีเนื้อหาหลายวิชารวมกัน ต้องแยกแยะเลือกเรียนดู (ถ้าจะเลือกเรียนแต่คอม)
 * [Harvard Open Courses](http://online-learning.harvard.edu/)
 * [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 * [Stadford Free Courses](http://online.stanford.edu/courses)
 * [Open Yale Courses (คอร์สด้านเกี่ยวกับคอมยังไม่มี)](http://oyc.yale.edu/)
+
+ของมหาวิทยาลัยไทย
+* [Thai MOOC](https://www.thaimooc.org/)
+* [http://www.thaicyberu.go.th/](http://www.thaicyberu.go.th/)
+* 
 
 ## แนะนำกลุ่ม facebook 
 
