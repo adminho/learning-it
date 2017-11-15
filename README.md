@@ -56,6 +56,12 @@
 * [Android SQLite Basics โดยอาจารย์ พร้อมเลิศ หล่อวิจิตร](https://drive.google.com/file/d/0B5Jeui5joR5TdjQ2TEstTWVMSnM/view?pref=2&pli=1)
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
+* [ทำไม Android Developer ควรรู้และเข้าใจใน Activity Life Cycle](http://www.akexorcist.com/2016/04/why-do-we-need-to-know-about-activity-life-cycle-th.html)
+* [Fragment Principle - มารู้จักกับ Fragment กันเถอะ](http://www.akexorcist.com/2014/10/android-fragment-principle-fragment.html)
+* [RecyclerView สิ่งใหม่ที่กูเกิ้ลหวังว่าจะทำให้แอพฯแอนดรอยด์ดีขึ้น](https://nuuneoi.com/blog/blog.php?read_id=758)
+* [ว่าด้วยเรื่อง Asynchronous สำหรับ Android](http://www.somkiat.cc/let-start-with-asynchronous-for-android/)
+* [สารพันเรื่องราวของ "Thread" บนแอนดรอยด์ การปะทะกันของ Thread, AsyncTask, AsyncTaskLoader และ IntentService](https://nuuneoi.com/blog/blog.php?read_id=781)
+* [แจ้งเตือน Notification ผ่าน FCM](https://medium.com/20scoops-cnx/android-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99-notification-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-fcm-b4f41729537c)
 
 ### C and C++
 
