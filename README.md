@@ -16,6 +16,7 @@
 * [คอร์สเรียนฟรีจากทั่วโลก](#คอร์สเรียนฟรีจากทั่วโลก)
 * [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
 * [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
+* [โปรแกรมอรรถประโยชน์](#โปรแกรมอรรถประโยชน์)
 
 ## หนังสือ Ebooks ฟรี ภาษาไทย
 
@@ -335,3 +336,16 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ![programming Languages](https://coggle-downloads.s3.amazonaws.com/ca2a9ea41d00956ce58b599497b5434711ffdcb4aab32765b5762ba74a622e5b/3_Basic_Programming_languages.png)
 
+## โปรแกรมอรรถประโยชน์
+
+### GIT
+
+* [Git คืออะไร … Git is your friend](https://medium.com/@pakin/git-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-git-is-your-friend-c609c5f8efea)
+* [มาเรียนรู้ Git แบบง่ายๆกันเถอะ](https://blog.nextzy.me/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-git-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-427398e62f82)
+* [Git คืออะไร ? + พร้อมสอนใช้งาน Git และ Github](https://devahoy.com/posts/introduction-to-git-and-github/)
+* [Try Git: Git Tutorial](https://try.github.io)
+
+### DOCKER
+
+* [ปีนี้ยังไม่รู้จะเรียนรู้อะไร? มาเริ่มเรียนวิธีใช้ Docker กันได้ฟรีๆ เพื่ออนาคตที่ดีขึ้น!](https://www.techtalkthai.com/start-learning-docker-in-2017/)
+* [Try Docker](https://www.codeschool.com/courses/try-docker)
