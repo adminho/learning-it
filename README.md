@@ -315,12 +315,6 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
 * [รายชื่อกลุ่มต่างๆ อืน](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
 
-## ภาพรวมการพัฒนาเว็บทั้งฝั่ง Front-end และ Back-end
-
-![web_development](https://coggle-downloads.s3.amazonaws.com/b72d9295469532d1bf565e9884e03a8fba9a14698c8d7e9197e5574ea3cddd93/Web_Development.png)
-
-[สามารถดาวน์โหลดภาพเป็น PDF ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/91f9efcf43c8459cf124b46bad86c19b259fa41b33e3169c39c6057ef0ac8946/Web_Development.pdf)
-
 ## บทความดีๆ 
 
 ### JavaScript
