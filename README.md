@@ -56,12 +56,6 @@
 * [Android SQLite Basics โดยอาจารย์ พร้อมเลิศ หล่อวิจิตร](https://drive.google.com/file/d/0B5Jeui5joR5TdjQ2TEstTWVMSnM/view?pref=2&pli=1)
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
-* [ทำไม Android Developer ควรรู้และเข้าใจใน Activity Life Cycle](http://www.akexorcist.com/2016/04/why-do-we-need-to-know-about-activity-life-cycle-th.html)
-* [Fragment Principle - มารู้จักกับ Fragment กันเถอะ](http://www.akexorcist.com/2014/10/android-fragment-principle-fragment.html)
-* [RecyclerView สิ่งใหม่ที่กูเกิ้ลหวังว่าจะทำให้แอพฯแอนดรอยด์ดีขึ้น](https://nuuneoi.com/blog/blog.php?read_id=758)
-* [ว่าด้วยเรื่อง Asynchronous สำหรับ Android](http://www.somkiat.cc/let-start-with-asynchronous-for-android/)
-* [สารพันเรื่องราวของ "Thread" บนแอนดรอยด์ การปะทะกันของ Thread, AsyncTask, AsyncTaskLoader และ IntentService](https://nuuneoi.com/blog/blog.php?read_id=781)
-* [แจ้งเตือน Notification ผ่าน FCM](https://medium.com/20scoops-cnx/android-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99-notification-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-fcm-b4f41729537c)
 
 ### C and C++
 
@@ -251,13 +245,6 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 
-## บทความเจ๋งๆ เห็นแล้วร้องว้าว
-
-__ค้างไว้ก่อน มีเเดี่ยวมาใส่ให้__
-
-* [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
-* [ภาษา python ไล่ตั้งแต่ปูพื้นฐาน ไปยังถึง Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI](http://phyblas.blog.jp/31.html)
-
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses) ไม่ว่าจะเป็น MIT, Harvard, Stanford, UCBerkeley, University of Washington ฯลฯ ของธรรมศาสตร์ก็มีด้วยนะ และมหาวิทยาลัยอื่นๆ อีกเยอะแยะมากมาย มันจะคละๆ กันไปหลายวิชาหน่อย
@@ -328,20 +315,27 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
 * [รายชื่อกลุ่มต่างๆ อืน](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
 
-
 ## ภาพรวมการพัฒนาเว็บทั้งฝั่ง Front-end และ Back-end
 
 ![web_development](https://coggle-downloads.s3.amazonaws.com/b72d9295469532d1bf565e9884e03a8fba9a14698c8d7e9197e5574ea3cddd93/Web_Development.png)
 
 [สามารถดาวน์โหลดภาพเป็น PDF ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/91f9efcf43c8459cf124b46bad86c19b259fa41b33e3169c39c6057ef0ac8946/Web_Development.pdf)
 
-## ภาพรวมการใช้ภาษาโปรแกรมมิ่ง แยกย่อยตามสายงานที่สำคัญ
+## บทความดีๆ 
 
-[สามารถโหลดภาพเป็น pdf ได้ที่นี้](https://coggle-downloads.s3.amazonaws.com/ca2a9ea41d00956ce58b599497b5434711ffdcb4aab32765b5762ba74a622e5b/3_Basic_Programming_languages.pdf)
+### JavaScript
+* [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
 
-![programming Languages](https://coggle-downloads.s3.amazonaws.com/ca2a9ea41d00956ce58b599497b5434711ffdcb4aab32765b5762ba74a622e5b/3_Basic_Programming_languages.png)
+### Python
+* [ภาษา python ไล่ตั้งแต่ปูพื้นฐาน ไปยังถึง Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI](http://phyblas.blog.jp/31.html)
 
-## โปรแกรมอรรถประโยชน์
+### Java and Android
+* [ทำไม Android Developer ควรรู้และเข้าใจใน Activity Life Cycle](http://www.akexorcist.com/2016/04/why-do-we-need-to-know-about-activity-life-cycle-th.html)
+* [Fragment Principle - มารู้จักกับ Fragment กันเถอะ](http://www.akexorcist.com/2014/10/android-fragment-principle-fragment.html)
+* [RecyclerView สิ่งใหม่ที่กูเกิ้ลหวังว่าจะทำให้แอพฯแอนดรอยด์ดีขึ้น](https://nuuneoi.com/blog/blog.php?read_id=758)
+* [ว่าด้วยเรื่อง Asynchronous สำหรับ Android](http://www.somkiat.cc/let-start-with-asynchronous-for-android/)
+* [สารพันเรื่องราวของ "Thread" บนแอนดรอยด์ การปะทะกันของ Thread, AsyncTask, AsyncTaskLoader และ IntentService](https://nuuneoi.com/blog/blog.php?read_id=781)
+* [แจ้งเตือน Notification ผ่าน FCM](https://medium.com/20scoops-cnx/android-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99-notification-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-fcm-b4f41729537c)
 
 ### GIT
 
