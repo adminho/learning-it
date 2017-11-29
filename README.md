@@ -209,7 +209,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 * [สอน CISCO Network พื้นฐาน ของคุณ  Chaiwat Amornhirunwong](https://www.youtube.com/channel/UCEQgv8reNP_X94R2tMw842Q/videos)
 
-### Data science กับ Machine Learning
+### Data science, Machine Learning, AI
 
 * [สอนเรื่อง “Big Data” สำหรับงาน Data Science (วิทยาศาสตร์ด้านข้อมูล) .สอนโดย คณาจารย์คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย เช่น ศ.ดร. ประภาส จงสถิตย์วัฒนา และ รศ.ดร. อติวงศ์ สุชาโต เป็นต้น ดูผ่าน iTune](https://itunes.apple.com/th/itunes-u/big-data/id1109952360?l=th&mt=10)
 * Machine Learning  ผู้สอนโดย Dr. Warasinee Chaisangmongkon
@@ -222,7 +222,9 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Machine Learning Curriculum](https://off99555.github.io/machine-learning-curriculum/)
   List รวมลิงค์ขนาดใหญ่เกี่ยวกับ Machine Learning (ภาษาอังกฤษเป็นหลัก) Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
-  และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning
+  และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning  
+* [Pattern Recognition สอนโดยอาจารย์ Ekapol Chuangsuwanich จากจุฬา](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
+
 
 ### Agile 
 
