@@ -346,3 +346,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 * [ปีนี้ยังไม่รู้จะเรียนรู้อะไร? มาเริ่มเรียนวิธีใช้ Docker กันได้ฟรีๆ เพื่ออนาคตที่ดีขึ้น!](https://www.techtalkthai.com/start-learning-docker-in-2017/)
 * [Try Docker](https://www.codeschool.com/courses/try-docker)
+
+### Security & Hacker
+* [อยากแฮกเป็นจุงเบย-ศึกษาอะไรดี](https://www.facebook.com/notes/2600-thailand/faq-อยากแฮกเป็นจุงเบย-ศึกษาอะไรดี/316524601840908/)
+
