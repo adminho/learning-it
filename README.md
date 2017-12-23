@@ -108,6 +108,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 ### AI, Data Mining และ Data science 
 
 * [คู่มือการใช้งาน Weka Explorer (เอาไว้ใช้ทำ ( Data Mining ) เบื้องต้น เขียนโดย ดร. เอกสิทธิ์ พัชรวงศ์ศักดา]( http://dataminingtrend.com/2014/free-weka-book/)
+* [ตำราเรียน ปัญญาประดิษฐ์ เขียนโดยอาจารย์ บุญเสริม กิจศิริกุล](https://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
 
 ### หนังสืออื่นๆ เกี่ยวกับคอม
 
@@ -223,8 +224,9 @@ https://www.apple.com/th/support/itunes-u/using/
   List รวมลิงค์ขนาดใหญ่เกี่ยวกับ Machine Learning (ภาษาอังกฤษเป็นหลัก) Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
   และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning  
-* [Pattern Recognition สอนโดยอาจารย์ Ekapol Chuangsuwanich จากจุฬา](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
-
+* [Pattern Recognition (ก็คือ Machine learning นั่นแหละ) สอนโดยอาจารย์ Ekapol Chuangsuwanich จากจุฬา](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
+* [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
+* [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
 
 ### Agile 
 
