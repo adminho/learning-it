@@ -325,7 +325,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
 
 ### Python
-* [ภาษา python ไล่ตั้งแต่ปูพื้นฐาน ไปยังถึง Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI](http://phyblas.blog.jp/31.html)
+* [ภาษา python ไล่ตั้งแต่ปูพื้นฐาน ไปยังถึง Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI](https://phyblas.hinaboshi.com/saraban/python)
 
 ### Java and Android
 * [ทำไม Android Developer ควรรู้และเข้าใจใน Activity Life Cycle](http://www.akexorcist.com/2016/04/why-do-we-need-to-know-about-activity-life-cycle-th.html)
