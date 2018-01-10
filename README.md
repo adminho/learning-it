@@ -56,6 +56,7 @@
 * [Android SQLite Basics โดยอาจารย์ พร้อมเลิศ หล่อวิจิตร](https://drive.google.com/file/d/0B5Jeui5joR5TdjQ2TEstTWVMSnM/view?pref=2&pli=1)
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
+* [Learning Computer Programming using JAVA with 101 examples ของอาจารย์ Atiwong Suchato แต่งเป็นภาษาอังกฤษล้วน เอาไว้สอนวิศวะจุฬาฯ ภาคอินเตอร์](https://www.cp.eng.chula.ac.th/books/java101/)
 
 ### C and C++
 
@@ -92,6 +93,8 @@
 เขียนโดย ITGeist 5 (By Wisit) | itgeist5blog.blogspot.com](
 https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
+### Data structure และ algorithm
+* [โครงสร้างข้อมูล: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/books/ds-vjjv/)
 
 ### Database
 
