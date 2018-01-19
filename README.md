@@ -307,7 +307,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 คอร์สเรียนฟรี จากม. ชั้นระดับโลก จะมีเนื้อหาหลายวิชารวมกัน ต้องแยกแยะเลือกเรียนดู (ถ้าจะเลือกเรียนแต่คอม)
 * [Harvard Open Courses](http://online-learning.harvard.edu/)
 * [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)
-* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+* [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  [บน youtube](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 * [Stadford Free Courses](http://online.stanford.edu/courses)
 * [Open Yale Courses (คอร์สด้านเกี่ยวกับคอมยังไม่มี)](http://oyc.yale.edu/)
 
