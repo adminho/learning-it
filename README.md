@@ -57,6 +57,7 @@
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
 * [Learning Computer Programming using JAVA with 101 examples ของอาจารย์ Atiwong Suchato แต่งเป็นภาษาอังกฤษล้วน เอาไว้สอนวิศวะจุฬาฯ ภาคอินเตอร์](https://www.cp.eng.chula.ac.th/books/java101/)
+* [แบบฝึกปฏิบัติการเขียนโปรแกรม: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.mebmarket.com/index.php?action=BookDetails&book_id=1566)
 
 ### C and C++
 
@@ -95,6 +96,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
 ### Data structure และ algorithm
 * [โครงสร้างข้อมูล: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/books/ds-vjjv/)
+* [การออกแบบและวิเคราะห์อัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/~somchai/2110427/2542/Lectures/Slides/pdf/lnotes-98.pdf)
 
 ### Database
 
