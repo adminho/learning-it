@@ -268,6 +268,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
  
 รายชื่อเว็บไซต์ที่เปิดคอร์สสอนการโค้ดดิ่ง (ภาษาอังกฤษ) น่าจะเป็นประโยชน์ มีทั้งฟรี และเสียเงิน คละกันไป
 
+* [สอนเด็กเขียนโปรแกรม](https://code.org/)
 * [Codecademy](http://www.codecademy.com/)
 * [KhanAcademy](https://www.khanacademy.org/)
 * [Coursera](https://www.coursera.org/)
