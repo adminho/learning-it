@@ -161,7 +161,8 @@ https://www.apple.com/th/support/itunes-u/using/
 ### Python
 
 * [ภาษา Python โดย SIPA](https://www.youtube.com/watch?v=KcAX613khH4&list=PLtM3znnbMbVWZ1ICKEi7Gr9dxdJc_ppel)
-*  [บทเรียนวิชาการเขียนโปรแกรมสำหรับนิสิต ปี 1 คณะวิศวกรรมศาสตร์ ภาคปลาย ปีการศึกษา 2558 (ใช้ Python เป็นพื้นฐาน) รหัสวิชา 2110101 Computer Programming (2558-2)  สอนโดยดร. สมชาย ประสิทธิ์จูตระกูล](https://www.youtube.com/playlist?list=PL0ROnaCzUGB4ieaQndKybT9xyoq2n9NGq)
+*  [บทเรียนวิชาการเขียนโปรแกรมสำหรับนิสิต ปี 1 คณะวิศวกรรมศาสตร์ ภาคปลาย ปีการศึกษา 2558 (ใช้ Python เป็นพื้นฐาน) รหัสวิชา 2110101 Computer Programming (2558-2)  สอนโดยดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬาฯ](https://www.youtube.com/playlist?list=PL0ROnaCzUGB4ieaQndKybT9xyoq2n9NGq)
+* [สอนพื้นฐานการเขียนโปรแกรมด้วยภาษาไพธอน (Python 3) โดย รศ. ดร. ประเสริฐ คณาวัฒนไชย จากจุฬาฯ](https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
 * [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
 * [Python เบื้องต้นแบบรวบรัด 30 นาที](https://www.youtube.com/watch?v=UXJ_iogbivw)
 
