@@ -142,6 +142,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
     * [สอนสร้างระบบ Machine learning ด้วยภาษา Python (เนื้อหาจะใช้ไลบรารี่พื้นฐาน เช่น Numpy, ScipY, scikit-learn และ Matplotlib )](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
     * [แนะนำ machine learning ออกไปแนวปฏิบัติ ใช้ Python (Anaconda) ในการอธิบายเนื้อหา](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-machine-learning)
     * [นำ machine learning ไปใช้ในงาน data-analysis](https://www.packtpub.com/packt/free-ebook/practical-data-analysis)
+* [แจกฟรีหนังสือคอมหลายวิชา น่าสนใจมาก](http://goalkicker.com/PythonBook/)
+    
 
 ## วีดีโอสอนฟรีเป์นภาษาไทย
 
