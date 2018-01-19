@@ -212,8 +212,8 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### Data structure และ algorithm
 
-* [การออกแบบอัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
-* [โครงสร้างข้อมูล (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
+* [การออกแบบอัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬาฯ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
+* [โครงสร้างข้อมูล (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬาฯ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
 
 ### Network
 
