@@ -71,7 +71,7 @@
 
 ### Python
 
-* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://isan.msu.ac.th/suchart/ProgrammingExpertwithPython.pdf)
+* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf)
 * [Python ๑๐๑  หนังสือสอนเขียนโปรแกรมภาษา Python ใช้ประกอบการเรียนวิชา 2110101 Computer Programming ของวิศวกรรมคอมพิวเตอร์ จุฬา เขียนโดยอาจารย์ กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล และ สุกรี สินธุภิญโญ](http://www.cp.eng.chula.ac.th/books/python101)
 
 ### ภาษาโปรแกรมอื่นๆ 
