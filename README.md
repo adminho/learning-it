@@ -58,6 +58,7 @@
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
 * [Learning Computer Programming using JAVA with 101 examples ของอาจารย์ Atiwong Suchato แต่งเป็นภาษาอังกฤษล้วน เอาไว้สอนวิศวะจุฬาฯ ภาคอินเตอร์](https://www.cp.eng.chula.ac.th/books/java101/)
 * [แบบฝึกปฏิบัติการเขียนโปรแกรม: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.mebmarket.com/index.php?action=BookDetails&book_id=1566)
+* [เขียน Java GUI ในรูปแบบ MVC](https://www.th-java.com/download-ebook-free-java-gui-mvc/#more-4945)
 
 ### C and C++
 
@@ -106,6 +107,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
 * [Introduction to Wireless Sensor Networks-แนะนำเครือข่ายเซนเซอร์ไร้สาย เขียนโดย คุณ วรรณรัช สันติอมรทัต และ สกุณา เจริญปัญญาศักดิ์](http://www.nectec.or.th/news/news-public-document/introwsn.html)
 * [Embedded Android Development สู่เส้นทางนักพัฒนา เขียนโดย วิรุฬห์ ศรีบริรักษ์ (อ.จอม)](https://docs.google.com/forms/d/14GNLWBJIkD2QmoJtpG7nbBHdLT7KBLsFHRn-plfzxtE/viewform)
+* [เรียนรู้และลองเล่น Arduino เบื้องต้น (ฉบับปรับปรุงครั้งที่ 1) โดยครูประภาส สุวรรณเพชร](http://www.praphas.com/index.php/2008-11-03-14-25-25/51-arduino/97-2-arduino-1)
 
 ### Software Engineer
 
