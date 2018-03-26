@@ -58,7 +58,7 @@
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
 * [Learning Computer Programming using JAVA with 101 examples ของอาจารย์ Atiwong Suchato แต่งเป็นภาษาอังกฤษล้วน เอาไว้สอนวิศวะจุฬาฯ ภาคอินเตอร์](https://www.cp.eng.chula.ac.th/books/java101/)
 * [แบบฝึกปฏิบัติการเขียนโปรแกรม: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.mebmarket.com/index.php?action=BookDetails&book_id=1566)
-* [เขียน Java GUI ในรูปแบบ MVC](https://www.th-java.com/download-ebook-free-java-gui-mvc/#more-4945)
+* [เขียน Java GUI ในรูปแบบ MVC ของ ธมนวรรณ มณีจันทร์](https://www.th-java.com/download-ebook-free-java-gui-mvc/#more-4945)
 
 ### C and C++
 
