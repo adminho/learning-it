@@ -59,6 +59,7 @@
 * [Learning Computer Programming using JAVA with 101 examples ของอาจารย์ Atiwong Suchato แต่งเป็นภาษาอังกฤษล้วน เอาไว้สอนวิศวะจุฬาฯ ภาคอินเตอร์](https://www.cp.eng.chula.ac.th/books/java101/)
 * [แบบฝึกปฏิบัติการเขียนโปรแกรม: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.mebmarket.com/index.php?action=BookDetails&book_id=1566)
 * [เขียน Java GUI ในรูปแบบ MVC ของ ธมนวรรณ มณีจันทร์](https://www.th-java.com/download-ebook-free-java-gui-mvc/#more-4945)
+* [เอกสารจาก แผนกคอมพิวเตอร์ วิทยาลัยเทคโนโลยีภาคตะวันออก (อี. เทค)](http://it.e-tech.ac.th/poohdevil/JavaConcepts/)
 
 ### C and C++
 
@@ -109,6 +110,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [Embedded Android Development สู่เส้นทางนักพัฒนา เขียนโดย วิรุฬห์ ศรีบริรักษ์ (อ.จอม)](https://docs.google.com/forms/d/14GNLWBJIkD2QmoJtpG7nbBHdLT7KBLsFHRn-plfzxtE/viewform)
 * [เรียนรู้และลองเล่น Arduino เบื้องต้น (ฉบับปรับปรุงครั้งที่ 1) โดยครูประภาส สุวรรณเพชร](http://www.praphas.com/index.php/2008-11-03-14-25-25/51-arduino/97-2-arduino-1)
 * [เล่า สร้าง เรื่องบอร์ดควบคุมขนาดเล็ก โดย อ.อดิศักดิ์ ชิณะวงค์](http://www.electoday.com/index.php/topic,16007.0.html)
+* [เอกสารประกอบการสอนวิชาไมโครคอนโทรลเลอร์ (MCS-51) โดยครูประภาส สุวรรณเพชร](http://www.electoday.com/index.php/topic,16119.0.html)
 
 ### Software Engineer
 
