@@ -272,6 +272,8 @@ https://www.apple.com/th/support/itunes-u/using/
 * [คอร์สสอนฟรีจากไมโครซอฟต์ เยอะมากขอบอก](https://mva.microsoft.com/) ถ้าเข้าไปดูตามลิงค์นี้ 
 https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 จะเห็นหลายชื่อ คอร์สของไมโครซอฟต์ ที่เหมาะกับโปรแกรมเมอร์หลายตัวที่เดียวเชียว มากกว่า 200 กว่าคอร์ส เช่น C#, Xamarin,Basic,Angular, React, powershell,ASP.NET,Node.js, Big Data, สร้างเกมโดย Construct 2 และหลายตัว ฯลฯ เลือกดูเอานะ
+* [คอร์สเรียน Quantum Computing ของ MIT (ร่วมมือกับ IBM)](https://quantumcurriculum.mit.edu/)
+
 
 ## คอร์สเรียนฟรีจากทั่วโลก
  
