@@ -263,6 +263,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 * [เรียนออนไลน์ Cloud computing, Open Data, IPv6 และ Security Awareness ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ](https://e-learning.ega.or.th/)
+* [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 
