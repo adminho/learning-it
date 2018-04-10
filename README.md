@@ -2,7 +2,7 @@
 
 เรียนอย่างนี้นะครับว่า ตั้งแต่ผมทำเพจ facebook มา ก็ได้แชร์ลิงค์ต่างๆ ที่เป็นความรู้ไว้เยอะมาก จึงรู้ว่าความรู้ที่คนไทยเผยแพร่มีเยอะ แต่ปัญหาใหญ่เวลาโพสต์บนเพจ มันไล่หายาก สะเปะสะปะ ไม่เป็นระเบียบ ผมเลยถือโอกาสจัดรวบรวมเท่าที่ทำได้ เพื่อให้ค้นหาได้ง่ายหน่อย __ต่อไปก็จะมีเพิ่มขึ้นเรื่อยๆ ไม่ได้หยุดเท่านี้ ถ้าหาเจอนะ__ 
 
-> ใครมีอะไรแนะนำก็แตก Branch แล้ว commit มาได้เลยครับ ถ้าเห็นมีประโยชน์เดี่ยว merge ให้ หรือใครไม่สะดวกก็ทัก inbox มาที่เพจ [แฟนเพจ](https://www.facebook.com/programmerthai/)
+> ใครมีอะไรแนะนำก็แตก Branch แล้ว commit มาได้เลยครับ ถ้าเห็นมีประโยชน์เดี่ยว merge ให้ หรือใครไม่สะดวกก็ทัก inbox มาที่เพจ [ProgrammerThai](https://www.facebook.com/programmerthai/)
 
 แหล่งเรียนรู้ส่วนใหญ่ ก็จะเป็น e-book, วีดีโอ, เน้นไปที่ __ภาษาไทย__ เป็นหลัก เหมาะกับผู้ศึกษาศาสตร์ทางคอมพิวเตอร์เริ่มต้น ที่ภาษาอังกฤษอาจยังไม่แข็งแรงมากนัก โดยเน้นไปทางการเขียนโปรแกรมเป็นหลัก แต่ก็มีภาษาอังกฤษด้วย เผื่อคนสนใจ
 
@@ -245,6 +245,10 @@ https://www.apple.com/th/support/itunes-u/using/
 ### Agile 
 
 * [Playlist  8 คลิป สอน Agile โดยคุณ Chokchai Phatharamalai (Juacompe)  เป็นโครงการที่ม. เกษตรศาสตร์ ร่วมมือกับ SIPA](https://www.youtube.com/watch?v=HBSjj1LFDZY&list=PL3opfZU99soltwbe-9CV6DUeVTWd-TCiT&index=1)
+
+### MEAN STACK Developer
+
+*[สอน MEAN Stack โดย SIPA Programming] เน้นการใช้ภาษา Javascript ในการพัฒนา MongoDB,Express,AngularJS,Node.js(Mhttps://www.youtube.com/watch?v=bw6P10BKQ9M&list=PLtM3znnbMbVXD0fygCTsblC2sLZvSPY8g)
 
 ### อื่นๆ ที่น่าสนใจ
 
