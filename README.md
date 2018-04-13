@@ -241,6 +241,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [คอร์สเรียนจากจุฬา ชื่อ Pattern Recognition (ก็คือ Machine learning นั่นแหละ) สอนโดยอาจารย์ Ekapol Chuangsuwanich](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
+* [6.S191: Introduction to Deep Learning จาก MIT](http://introtodeeplearning.com/)
 
 ### Agile 
 
