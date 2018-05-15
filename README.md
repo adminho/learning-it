@@ -237,7 +237,7 @@ https://www.apple.com/th/support/itunes-u/using/
   List รวมลิงค์ขนาดใหญ่เกี่ยวกับ Machine Learning (ภาษาอังกฤษเป็นหลัก) Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
   และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning  
-* [คอร์สเรียนจากจุฬา ชื่อ Pattern Recognition (ก็คือ Machine learning นั่นแหละ) สอนโดยอาจารย์ Ekapol Chuangsuwanich](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
+* [คอร์สเรียนจากจุฬา ชื่อ Pattern Recognition (ก็คือ Machine learning นั่นแหละ) โดยอาจารย์ Ekapol Chuangsuwanich](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
 * [2110594 NLP L1 Introduction โดยอาจารย์ Ekapol Chuangsuwanich](https://youtu.be/yTYo6XJjMzY?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) [Course github](https://github.com/ekapolc/nlp_course)
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
