@@ -173,7 +173,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [สอนพื้นฐานการเขียนโปรแกรมด้วยภาษาไพธอน (Python 3) โดย รศ. ดร. ประเสริฐ คณาวัฒนไชย จากจุฬาฯ](https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
 * [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
 * [Python เบื้องต้นแบบรวบรัด 30 นาที](https://www.youtube.com/watch?v=UXJ_iogbivw)
-
+* [Python จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2022801434624855/?type=3)
 ### HTML5
 
 * [สอน HTML เบื้องต้น ของคุณ Kong Ruksiam](https://www.youtube.com/watch?v=OU_bwaht7kM&list=PLEE74DyIkwElVMA4srMkyGn8ekDcQ8h2K)
@@ -238,6 +238,7 @@ https://www.apple.com/th/support/itunes-u/using/
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
   และ Matrix Transformation ทางคณิตศาสตร์มาใช้ประโยชน์อย่างหนัก ซึ่งมีชื่อว่า Deep Learning  
 * [คอร์สเรียนจากจุฬา ชื่อ Pattern Recognition (ก็คือ Machine learning นั่นแหละ) สอนโดยอาจารย์ Ekapol Chuangsuwanich](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OQd0a6mqjY6gWOuIl_stuv&disable_polymer=true)
+* [2110594 NLP L1 Introduction โดยอาจารย์ Ekapol Chuangsuwanich](https://youtu.be/yTYo6XJjMzY?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) [Course github](https://github.com/ekapolc/nlp_course)
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
 * [6.S191: Introduction to Deep Learning จาก MIT](http://introtodeeplearning.com/)
