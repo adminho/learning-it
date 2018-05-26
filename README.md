@@ -296,6 +296,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [รวมคอร์สเรียน Machine learning](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [รวม 13 คอร์สเรียน Deep learning](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0?source=user_profile---------1)
 * [สอบ CCNA ของ Cisco โดย David Bombal วิชาที่สอน CCNA Exam 200-125, 100-105 and 200-105](https://www.youtube.com/playlist?list=PLhfrWIlLOoKN-QsGKGaWwmJDOaiJJSyYX)
+* [course Security จาก cybrary](https://www.cybrary.it/)
 
 ## แหล่งความรู้อื่นๆ
 
