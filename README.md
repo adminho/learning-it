@@ -133,6 +133,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [คู่มือพื้นฐานใช้งาน Adobe Photoshop CS3 เขียนโดย มานิตย์ กริ่งรัมย์](http://ebooks.in.th/ebook/32514/คู่มือพื้นฐานใช้งาน_Adobe_Photoshop_CS3/)
 * [Web Security - ความปลอดภัยของเว็บ ของ อาจารย์ Thawatchai Chomsiri](https://www.researchgate.net/publication/315943371_Web_Security_-_khwamplxdphaykhxngweb)
 * [คู่มือ Cyber Security สำหรับประชาชน โดย กสทช.](http://www.muit.mahidol.ac.th/announcement/CyberSecurityPeople.pdf)
+* [การพัฒนา AR เล่ม1-2 ดร.ก้องเกียรติ หิรัญเกิด เขียน นรินธน์ นนทมาลย์ เรียบเรียง](https://drive.google.com/drive/folders/14-nuIReqypxSPATtde28JwLEivcxkljo?usp=sharing)
+* [Blockchain + bitcoin โดย คุณ Apaichon Punopas](https://docs.google.com/presentation/d/10Z8iWXjj82lWRuO19nZ8lc5SdOnjHaPytpUIJpaLNbQ/edit#slide=id.p)
 
 ## รวมลิงค์ Text book ฟรี
 
@@ -173,9 +175,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [สอนพื้นฐานการเขียนโปรแกรมด้วยภาษาไพธอน (Python 3) โดย รศ. ดร. ประเสริฐ คณาวัฒนไชย จากจุฬาฯ](https://www.youtube.com/playlist?list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
 * [Python โดย Clique Club - ชมรมคลิก ของจุฬา](https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw)
 * [Python เบื้องต้นแบบรวบรัด 30 นาที](https://www.youtube.com/watch?v=UXJ_iogbivw)
-* [Python จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2022801434624855/?type=3)
-### HTML5
+* [Python programming จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2022801434624855/?type=3&theater)
 
+### HTML5
+* (https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2022801434624855/?type=3&theater)
 * [สอน HTML เบื้องต้น ของคุณ Kong Ruksiam](https://www.youtube.com/watch?v=OU_bwaht7kM&list=PLEE74DyIkwElVMA4srMkyGn8ekDcQ8h2K)
 
 ### JavaScript
@@ -241,7 +244,8 @@ https://www.apple.com/th/support/itunes-u/using/
 * [2110594 NLP L1 Introduction โดยอาจารย์ Ekapol Chuangsuwanich](https://youtu.be/yTYo6XJjMzY?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) [Course github](https://github.com/ekapolc/nlp_course)
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
-* [6.S191: Introduction to Deep Learning จาก MIT](http://introtodeeplearning.com/)
+* [Python for Data Sceience จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2049490818622583/?type=3)
+*[Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 
 ### Agile 
 
@@ -297,6 +301,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [รวม 13 คอร์สเรียน Deep learning](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0?source=user_profile---------1)
 * [สอบ CCNA ของ Cisco โดย David Bombal วิชาที่สอน CCNA Exam 200-125, 100-105 and 200-105](https://www.youtube.com/playlist?list=PLhfrWIlLOoKN-QsGKGaWwmJDOaiJJSyYX)
 * [course Security จาก cybrary](https://www.cybrary.it/)
+* [6.S191: Introduction to Deep Learning จาก MIT](http://introtodeeplearning.com/)
 
 ## แหล่งความรู้อื่นๆ
 
