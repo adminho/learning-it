@@ -245,7 +245,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
 * [Python for Data Sceience จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2049490818622583/?type=3)
-*[Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
+* [Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 
 ### Agile 
 
@@ -268,10 +268,8 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 * [เรียนออนไลน์ Cloud computing, Open Data, IPv6 และ Security Awareness ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ](https://e-learning.ega.or.th/)
-* [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
-
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses) ไม่ว่าจะเป็น MIT, Harvard, Stanford, UCBerkeley, University of Washington ฯลฯ ของธรรมศาสตร์ก็มีด้วยนะ และมหาวิทยาลัยอื่นๆ อีกเยอะแยะมากมาย มันจะคละๆ กันไปหลายวิชาหน่อย
 
 * [edX.org เปิดคอร์สฟรีด้านการเขียนโปรแกรมฟรีๆ หลายตัวด้วยกัน](https://www.edx.org/computer-science-education-week)
@@ -279,7 +277,7 @@ https://www.apple.com/th/support/itunes-u/using/
 https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 จะเห็นหลายชื่อ คอร์สของไมโครซอฟต์ ที่เหมาะกับโปรแกรมเมอร์หลายตัวที่เดียวเชียว มากกว่า 200 กว่าคอร์ส เช่น C#, Xamarin,Basic,Angular, React, powershell,ASP.NET,Node.js, Big Data, สร้างเกมโดย Construct 2 และหลายตัว ฯลฯ เลือกดูเอานะ
 * [คอร์สเรียน Quantum Computing ของ MIT (ร่วมมือกับ IBM)](https://quantumcurriculum.mit.edu/)
-
+* [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
 ## คอร์สเรียนฟรีจากทั่วโลก
  
