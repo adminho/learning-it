@@ -17,7 +17,7 @@
 * :fire: [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
 * :green_book: [บทความดีๆ](#บทความดีๆ)
 
-## หนังสือ Ebooks ฟรี ภาษาไทย
+## :books: หนังสือ Ebooks ฟรี ภาษาไทย
 
 ** **หนังสือบางเล่มต้องสมัครเป็นสมาชิก www.ebooks.in.th ก่อนถึงจะโหลดได้**
 
@@ -136,7 +136,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [การพัฒนา AR เล่ม1-2 ดร.ก้องเกียรติ หิรัญเกิด เขียน นรินธน์ นนทมาลย์ เรียบเรียง](https://drive.google.com/drive/folders/14-nuIReqypxSPATtde28JwLEivcxkljo?usp=sharing)
 * [Blockchain + bitcoin โดย คุณ Apaichon Punopas](https://docs.google.com/presentation/d/10Z8iWXjj82lWRuO19nZ8lc5SdOnjHaPytpUIJpaLNbQ/edit#slide=id.p)
 
-## รวมลิงค์ Text book ฟรี
+## :books: รวมลิงค์ Text book ฟรี
 
 * [คู่มือเตรียมสอบ Microsoft 70-410 เขียนโดย Brian Svidergol](https://start.netwrix.com/download/Guides/PDFdownload.php?pdf=study_guide_70-410_exam.pdf&h=ZAQH8pl1A)
 * http://ebook-dl.com/computer
@@ -151,7 +151,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [แจกฟรีหนังสือคอมหลายวิชา น่าสนใจมาก](http://goalkicker.com/)
     
 
-## วีดีโอสอนฟรีเป์นภาษาไทย
+## :movie_camera: วีดีโอสอนฟรีเป์นภาษาไทย
 
 *** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**  
 https://www.apple.com/th/support/itunes-u/using/ 
@@ -269,7 +269,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 * [เรียนออนไลน์ Cloud computing, Open Data, IPv6 และ Security Awareness ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ](https://e-learning.ega.or.th/)
 
-## วีดีโอสอนเป็นภาษาอังกฤษ
+## :movie_camera: วีดีโอสอนเป็นภาษาอังกฤษ
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses) ไม่ว่าจะเป็น MIT, Harvard, Stanford, UCBerkeley, University of Washington ฯลฯ ของธรรมศาสตร์ก็มีด้วยนะ และมหาวิทยาลัยอื่นๆ อีกเยอะแยะมากมาย มันจะคละๆ กันไปหลายวิชาหน่อย
 
 * [edX.org เปิดคอร์สฟรีด้านการเขียนโปรแกรมฟรีๆ หลายตัวด้วยกัน](https://www.edx.org/computer-science-education-week)
@@ -279,7 +279,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [คอร์สเรียน Quantum Computing ของ MIT (ร่วมมือกับ IBM)](https://quantumcurriculum.mit.edu/)
 * [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
-## คอร์สเรียนฟรีจากทั่วโลก
+## :fire: คอร์สเรียนฟรีจากทั่วโลก
  
 รายชื่อเว็บไซต์ที่เปิดคอร์สสอนการโค้ดดิ่ง (ภาษาอังกฤษ) น่าจะเป็นประโยชน์ มีทั้งฟรี และเสียเงิน คละกันไป
 
@@ -301,7 +301,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [course Security จาก cybrary](https://www.cybrary.it/)
 * [6.S191: Introduction to Deep Learning จาก MIT](http://introtodeeplearning.com/)
 
-## แหล่งความรู้อื่นๆ
+## :fire: แหล่งความรู้อื่นๆ
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [Machine learning กับ Deep learning มีทั้งติวเตอร์ บทความ และแหล่งความรู้อื่นๆ อีกเพียบ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
@@ -334,7 +334,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [โครงการมหาวิทยาลัยไซเบอร์ไทย](http://www.thaicyberu.go.th/)
 * [คอร์สเรียนออนไลน์ฟรี ที่จุฬาลงกรณ์มหาวิทยาลัย](https://mooc.chula.ac.th/)
 
-## แนะนำกลุ่ม facebook 
+## :fire: แนะนำกลุ่ม facebook 
 
 กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไอที 
 
@@ -344,7 +344,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
 * [รายชื่อกลุ่มต่างๆ อืน](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
 
-## บทความดีๆ 
+## :green_book: บทความดีๆ 
 
 ### JavaScript
 * [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
