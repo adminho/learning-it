@@ -342,6 +342,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
 * [thaiadmin.org - รวม IT support, Network, System Admin ที่ใหญ่แห่งหนึ่งในไทย](https://www.facebook.com/groups/thaiadmin/)
 * [Thailand Android Developer - กลุ่มผู้สนใจพัฒนาซอฟต์แวร์บน Android ที่ใหญ่ที่สุด](https://www.facebook.com/groups/thaidroiddev/)
+* [ประกาศหางานด้านโปรแกรมเมอร์](https://www.facebook.com/groups/647718825333067/)
 * [รายชื่อกลุ่มต่างๆ อืน](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
 
 ## บทความดีๆ 
