@@ -246,6 +246,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
 * [Python for Data Sceience จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2049490818622583/?type=3)
 * [Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
+* [คอร์สเรียนฟรีสำหรับงาน datascience มีสอนภาษา SQL, ภาษา R ของคุณ Kasidis S. (Toy)](https://datarockie.teachable.com/)
 
 ### Agile 
 
