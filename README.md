@@ -32,6 +32,7 @@
 * [เกมง่ายๆแบบ HTA ด้วย JavaScript เขียนโดย ธรรมรัตน์ พรหมพิงค์](http://www.ebooks.in.th/ebook/34499/เกมง่ายๆแบบ_HTA_ด้วย_JavaScript/)
 * [Angular 1 เวอร์ชั่นเก่าหน่อย เพราะปัจจุบันเป็น Angular 2 เขียนโดย ถาวร ศรีเสนพิลา](http://www.javathailand.com/downloads/AngularJS-Basic-to-Professional-Full.pdf)
 * [คู่มือการใช้งาน javascript เบื้องต้น javascript the complete reference เขียนโดย กฤษณวัฒน์ แก้วแสน](http://ebooks.in.th/ebook/42309/คู่มือการใช้งาน_javascript_เบื้องต้น_javascript_the_complete_reference/)
+* [พื้นฐาน React และ Redux สำหรับผู้เริ่มต้น ของคุณ Chai Phonbopit](https://leanpub.com/react-and-redux-for-beginners)
 
 ### HTML and CSS
 
