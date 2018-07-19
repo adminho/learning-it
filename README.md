@@ -248,6 +248,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Python for Data Sceience จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2049490818622583/?type=3)
 * [Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 * [คอร์สเรียนฟรีสำหรับงาน datascience มีสอนภาษา SQL, ภาษา R ของคุณ Kasidis S. (Toy)](https://datarockie.teachable.com/)
+* [วิชา NLP เป็นหนึ่งในสาขาย่อยใน AI ขาดสาขานี้ไป เราก็ไม่มี chatbot เลยนะ
+สอนโดยอาจารย์คณะวิศวะจุฬา](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) 
+[github](https://github.com/ekapolc/nlp_course)
+* [TechTalk 42 - Deep Learning Workshop](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 
 ### Agile 
 
