@@ -247,6 +247,7 @@ https://www.apple.com/th/support/itunes-u/using/
 * [2110594 NLP L1 Introduction โดยอาจารย์ Ekapol Chuangsuwanich](https://youtu.be/yTYo6XJjMzY?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) [Course github](https://github.com/ekapolc/nlp_course)
 * [คอร์ส AI ของอาจารย์ วรเศรษฐ สุวรรณิก](https://www.youtube.com/watch?v=PCOUJ3VDGRc&list=PLILUv5sgWpA-B-r7h3n7oZljSKTILKNOt)
 * [deep learning  และ Tensorflow  (ต้องลงทะเบียนก่อง) สอนโดยอาจารย์ สรวิชญ์ แสงเขียวงาม และ ดร.วิโรจน์ จิรพัฒนกุล](https://www.skooldio.com)
+* [Chanel youtube ของ Algo Addict](https://www.youtube.com/channel/UCoA-Dyu0X02M12EBwVZ9_Bg)
 * [Python for Data Sceience จากเพจ AlgoAddict - Trading with Intelligence](https://www.facebook.com/algoaddict/photos/a.1687454204826248.1073741828.1679321298972872/2049490818622583/?type=3)
 * [Deep Learning Workshop โดย NECTEC TechTalk](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 * [คอร์สเรียนฟรีสำหรับงาน datascience มีสอนภาษา SQL, ภาษา R ของคุณ Kasidis S. (Toy)](https://datarockie.teachable.com/)
