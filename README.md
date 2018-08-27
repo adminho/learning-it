@@ -54,6 +54,7 @@
 * [คู่มืออบรมการพัฒนาโปรแกรมแอนดรอยด์ ขั้นพื้นฐาน เขียนโดย มาสเตอร์ อึ่ง](http://www.ebooks.in.th/ebook/4188/คู่มืออบรมการพัฒนาโปรแกรมแอนดรอยด์_ขั้นพื้นฐาน/)
 * [Advance android on mySQL&SQLite เขียนโดย มาสเตอร์อึ่ง](http://banbanbook.com/banbanbook/cart/get_detail_book/1266)
 * [Advance Android on Database เขียนโดย มาสเตอร์อึ่ง](https://drive.google.com/file/d/0BxPdSFnhyBbINTJXRXRvTEhhYWM/view) หรือใช้ลิงค์ http://banbanbook.com/banbanbook/cart/get_detail_book/1452
+* [Android Connect Firebase แอนดรอยด์ เชื่อมตอ Firebase เขียนโดย มาสเตอร์อึ่ง] (https://drive.google.com/file/d/15O_cBc8iLlwO3TS5oxc4g2tKRCATB6D1/view)
 * [Android SQLite Basics โดยอาจารย์ พร้อมเลิศ หล่อวิจิตร](https://drive.google.com/file/d/0B5Jeui5joR5TdjQ2TEstTWVMSnM/view?pref=2&pli=1)
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
@@ -144,7 +145,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [คู่มือเตรียมสอบ Microsoft 70-410 เขียนโดย Brian Svidergol](https://start.netwrix.com/download/Guides/PDFdownload.php?pdf=study_guide_70-410_exam.pdf&h=ZAQH8pl1A)
 * [เว็บนี้จะมี ebook มาหมุนเวียนแจกฟรี ทั้งนี้เราต้องกดดาวน์โหลดให้ทันภาย 24 ชั่วโมง](https://www.packtpub.com/packt/offers/free-learning)
 * [openstax.org เป็นแนวเลข วิทยาศาสตร์](https://openstax.org/)
-* [Big Data, Data Science, Data Mining, Machine Learning, Python, R และอื่นๆ มากว่า 60 เล่ม](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
+* [Big Data, Data Science, Data Mining, Machine Learning, Python, R และอื่นๆ มากว่า 60 เล่ม บางเล่มอาจเสียเงินดูดีๆ นะ](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * รายชื่อตำราฟรีของเว็บ packtpub.com อันนี้เป็นสาย Machine learning ตลอดรวมทั้ง  Data scientist 
     * [สอนเขียน Neural Network ด้วยภาษา Java](https://www.packtpub.com/packt/free-ebook/neural-networks-java)
     * [สอนสร้างระบบ Machine learning ด้วยภาษา Python (เนื้อหาจะใช้ไลบรารี่พื้นฐาน เช่น Numpy, ScipY, scikit-learn และ Matplotlib )](https://www.packtpub.com/packt/free-ebook/python-machine-learning-algorithms)
