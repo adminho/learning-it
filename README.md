@@ -61,6 +61,7 @@
 * [แบบฝึกปฏิบัติการเขียนโปรแกรม: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.mebmarket.com/index.php?action=BookDetails&book_id=1566)
 * [เขียน Java GUI ในรูปแบบ MVC ของ ธมนวรรณ มณีจันทร์](https://www.th-java.com/download-ebook-free-java-gui-mvc/#more-4945)
 * [เอกสารจาก แผนกคอมพิวเตอร์ วิทยาลัยเทคโนโลยีภาคตะวันออก (อี. เทค)](http://it.e-tech.ac.th/poohdevil/JavaConcepts/)
+* [เขียน Java GUI ในรูปแบบ MVC โดย ธมนวรรณ มณีจันทร์](https://www.vdemy.net/online-book-java-gui-mvc/)
 
 ### C and C++
 
@@ -274,6 +275,8 @@ https://www.apple.com/th/support/itunes-u/using/
 * [ส่วนคอร์สเรียนอื่น ๆ ที่น่าสนใจของจุฬาฯ ผ่านทาง itunes](https://itunes.apple.com/th/institution/chulalongkorn-university/id920032112?uo=8&at=10l6dJ)
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
 * [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
+* [คอร์สทั้งหมดของ โค้ชเอก Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
+
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 * [เรียนออนไลน์ Cloud computing, Open Data, IPv6 และ Security Awareness ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ](https://e-learning.ega.or.th/)
@@ -355,6 +358,10 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [รายชื่อกลุ่มต่างๆ อืน](https://www.algorithmtut.com/รายชื่อกลุ่มบน-facebook-ไอทีไทย/)
 
 ## บทความดีๆ 
+
+### Python
+* [แหล่งเรียนรู้ Python เบื้องต้นที่ละเอียดมากๆ](https://phyblas.hinaboshi.com/saraban/python)
+##
 
 ### JavaScript
 * [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
