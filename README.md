@@ -200,6 +200,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 * [การออกแบบอัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
 * [โครงสร้างข้อมูล (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
+* [โครงสร้างข้อมูลด้วยภาษา C++ โดย ผศ.ดร. วิรัตน์ จารีวงศ์ไพบูลย์​ มหาวิทยาลัยธรรมศาสตร์](https://itunes.apple.com/au/podcast/cs213-%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3-%E0%B8%B2%E0%B8%87%E0%B8%82-%E0%B8%AD%E0%B8%A1-%E0%B8%A5%E0%B8%94-%E0%B8%A7%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-c/id1099716528) | [EPUB](http://ocw.tu.ac.th/emc/ShelfTU/ebook12/ebook/CS213.epub)
 
 ### Data science กับ Machine Learning
 
