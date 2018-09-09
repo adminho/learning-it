@@ -283,10 +283,10 @@ https://www.apple.com/th/support/itunes-u/using/
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
 * [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [คอร์สทั้งหมดของ โค้ชเอก Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
-
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
-* [เรียนออนไลน์ Cloud computing, Open Data, IPv6 และ Security Awareness ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ](https://e-learning.ega.or.th/)
+* [คอร์สเรียนของทางจุฬา (มีหลากหลายวิชา และก็มีวิชาคอมด้วย แต่ไม่เยอะ)](https://mooc.chula.ac.th/courses)
+* [โครงการมหาวิทยาลัยไซเบอร์ไทย Thailand Cyber University Project (มีวิชาคอมด้วย)](https://www.thaicyberu.go.th/)
 
 ## วีดีโอสอนเป็นภาษาอังกฤษ
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses) ไม่ว่าจะเป็น MIT, Harvard, Stanford, UCBerkeley, University of Washington ฯลฯ ของธรรมศาสตร์ก็มีด้วยนะ และมหาวิทยาลัยอื่นๆ อีกเยอะแยะมากมาย มันจะคละๆ กันไปหลายวิชาหน่อย
