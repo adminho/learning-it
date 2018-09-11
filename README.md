@@ -8,12 +8,14 @@
 
 # สารบัญ
 
+* :fire: [เรียนออนไลน์ของภาครัฐ](#เรียนออนไลน์ของภาครัฐ)
+* :fire: [Chanel ด้านคอมบน Youtube](#Chanel-ด้านคอมบน-Youtube)
 * :books: [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
 * :books: [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
 * :movie_camera: [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
 * :movie_camera: [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
 * :fire: [คอร์สเรียนฟรีจากทั่วโลก](#คอร์สเรียนฟรีจากทั่วโลก)
-* :fire:  [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
+* :fire: [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
 * :fire: [แนะนำกลุ่ม facebook](#แนะนำกลุ่ม-facebook)
 * :green_book: [บทความดีๆ](#บทความดีๆ)
 
@@ -22,6 +24,14 @@
 * [Coding Thailand โครงการพัฒนาแพลตฟอร์มออนไลน์ระดับประเทศ โดย สำนักงานส่งเสริมเศรษฐกิจดิจิทัล (depa) กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม](https://www.codingthailand.org/)
 * [เว็บฝึกเขียนโปรแกรมของ สสวท โดยเฉพาะ เนื้อหาเป็นภาษา C กับ C++](https://programming.in.th/)
 * [คอร์สออนไลน์ฟรี ของสถาบันพัฒนาบุคลากรด้านดิจิทัลภาครัฐ (TDGA)](https://e-learning.ega.or.th/)
+
+## Chanel ด้านคอมบน Youtube
+
+* [BorntoDev] https://www.youtube.com/channel/UCDSn4Ql7fuyjxsSNOws81iQ
+* [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
+* [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
+* [คอร์สทั้งหมดของ โค้ชเอก Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
+* [Course Indy](https://www.youtube.com/user/banbansoft/playlists)
 
 ## หนังสือ Ebooks ฟรี ภาษาไทย
 
@@ -83,7 +93,7 @@
 ### Python
 
 * [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf)
-* [Python ๑๐๑  หนังสือสอนเขียนโปรแกรมภาษา Python ใช้ประกอบการเรียนวิชา 2110101 Computer Programming ของวิศวกรรมคอมพิวเตอร์ จุฬา เขียนโดยอาจารย์ กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล และ สุกรี สินธุภิญโญ](http://www.cp.eng.chula.ac.th/books/python101)
+* [Python ๑๐๑  หนังสือสอนเขียนโปรแกรมภาษา Python ใช้ประกอบการเรียนวิชา 2110101 Computer Programming ของวิศวกรรมคอมพิวเตอร์ จุฬา เขียนโดยอาจารย์ กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล และ สุกรี สินธุภิญโญ](https://www.cp.eng.chula.ac.th/books/python101/)
 
 ### ภาษาโปรแกรมอื่นๆ 
 
@@ -280,9 +290,6 @@ https://www.apple.com/th/support/itunes-u/using/
    - https://www.youtube.com/watch?v=MuhOC3KjOcs
 * [วีดีโออื่นของ SIPA ](https://www.youtube.com/channel/UCgWqtSlHS0hCFlV4OfcAmAQ)
 * [ส่วนคอร์สเรียนอื่น ๆ ที่น่าสนใจของจุฬาฯ ผ่านทาง itunes](https://itunes.apple.com/th/institution/chulalongkorn-university/id920032112?uo=8&at=10l6dJ)
-* [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
-* [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
-* [คอร์สทั้งหมดของ โค้ชเอก Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
 * [Playlist 5 คลิป เกี่ยวกับลิขสิทธิ์ซอฟต์แวร์โดย SIPA](https://www.youtube.com/watch?v=4LLYNceiTDE&list=PLabfEkX-lWDWrndXS-m8MTQ1nc-AqUdQ-)
 * [วีดีโอสอนวิชา Algebra แปลโดย ผศ.ดร.มนตรี มาลีวงศ์ และ วรเศรษฐ สุวรรณิก ได้รับอนุญาตจาก Khan Academy]( https://th.khanacademy.org/)
 * [คอร์สเรียนของทางจุฬา (มีหลากหลายวิชา และก็มีวิชาคอมด้วย แต่ไม่เยอะ)](https://mooc.chula.ac.th/courses)
