@@ -9,7 +9,7 @@
 # สารบัญ
 
 * :fire: [เรียนออนไลน์ของภาครัฐ](#เรียนออนไลน์ของภาครัฐ)
-* :fire: [Chanel ด้านคอมบน Youtube](#Chanel-ด้านคอมบน-Youtube)
+* :fire: [Chanel ด้านคอมบน Youtube](#chanel-ด้านคอมบน-youtube)
 * :books: [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
 * :books: [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
 * :movie_camera: [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
