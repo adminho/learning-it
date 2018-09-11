@@ -27,7 +27,7 @@
 
 ## Chanel ด้านคอมบน Youtube
 
-* [BorntoDev] https://www.youtube.com/channel/UCDSn4Ql7fuyjxsSNOws81iQ
+* [BorntoDev](https://www.youtube.com/channel/UCDSn4Ql7fuyjxsSNOws81iQ)
 * [วิชาต่างๆ ของอ.ประเสริฐ](https://www.youtube.com/user/prasertcbs/playlists?view=1&sort=dd)
 * [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [คอร์สทั้งหมดของ โค้ชเอก Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
