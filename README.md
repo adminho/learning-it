@@ -70,7 +70,7 @@
 * [คู่มืออบรมการพัฒนาโปรแกรมแอนดรอยด์ ขั้นพื้นฐาน เขียนโดย มาสเตอร์ อึ่ง](http://www.ebooks.in.th/ebook/4188/คู่มืออบรมการพัฒนาโปรแกรมแอนดรอยด์_ขั้นพื้นฐาน/)
 * [Advance android on mySQL&SQLite เขียนโดย มาสเตอร์อึ่ง](http://banbanbook.com/banbanbook/cart/get_detail_book/1266)
 * [Advance Android on Database เขียนโดย มาสเตอร์อึ่ง](https://drive.google.com/file/d/0BxPdSFnhyBbINTJXRXRvTEhhYWM/view) หรือใช้ลิงค์ http://banbanbook.com/banbanbook/cart/get_detail_book/1452
-* [Android Connect Firebase แอนดรอยด์ เชื่อมตอ Firebase เขียนโดย มาสเตอร์อึ่ง] (https://drive.google.com/file/d/15O_cBc8iLlwO3TS5oxc4g2tKRCATB6D1/view)
+* [Android Connect Firebase แอนดรอยด์ เชื่อมตอ Firebase เขียนโดย มาสเตอร์อึ่ง](https://drive.google.com/file/d/15O_cBc8iLlwO3TS5oxc4g2tKRCATB6D1/view)
 * [Android SQLite Basics โดยอาจารย์ พร้อมเลิศ หล่อวิจิตร](https://drive.google.com/file/d/0B5Jeui5joR5TdjQ2TEstTWVMSnM/view?pref=2&pli=1)
 * [รวยด้วยเกมส์ Android เขียนโดย บุญนาท สุวรรณศรี](http://banbanbook.com/banbanbook/cart/get_detail_book/1437)
 * [Work Shop Android TV Online เขียนโดย ไอ้มั่ว แห่ง BanbanSoft](http://banbanbook.com/banbanbook/cart/get_detail_book/1455)
