@@ -95,7 +95,7 @@
 * [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf)
 * [Python ๑๐๑  หนังสือสอนเขียนโปรแกรมภาษา Python ใช้ประกอบการเรียนวิชา 2110101 Computer Programming ของวิศวกรรมคอมพิวเตอร์ จุฬา เขียนโดยอาจารย์ กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล และ สุกรี สินธุภิญโญ](https://www.cp.eng.chula.ac.th/books/python101/)
 
-### ภาษาโปรแกรมอื่นๆ 
+### ภาษาโปรแกรมอื่นๆ
 
 * [ภาษาโกวเล้ง Go เขียนโดย http://golang.in.th/](http://www.patanasongsivilai.com/blog/golang/)
 
@@ -111,7 +111,7 @@
 * [คู่มือฝึกอบรมปฏิบัติการ Linux Server Security เขียนโดย บุญลือ อยู่คงคง](http://ebooks.in.th/ebook/584/คู่มือฝึกอบรมปฏิบัติการ_Linux_Server_Security/)
 * [คู่มือพลเมืองเน็ต: เข้าใจเน็ต และใช้เน็ตให้ปลอดภัย เขียนโดย วสันต์ ลิ่วลมไพศาล และ สฤณี อาชวานันทกุล](https://thainetizen.org/wp-content/uploads/2013/05/netizen-handbook-201304.pdf)
 * [คู่มือการใช้งาน WiNginx เขียนโดย Suparat triamchanchai](http://www.ebooks.in.th/ebook/28367/คู่มือการใช้งาน_WiNginx/)
-* [E-Book เกี่ยวกับ Introduction To MS. Azure สำหรับท่านที่สนใจเรื่อง Cloud โดยเฉพาะ Microsoft Azure 
+* [E-Book เกี่ยวกับ Introduction To MS. Azure สำหรับท่านที่สนใจเรื่อง Cloud โดยเฉพาะ Microsoft Azure
 เขียนโดย ITGeist 5 (By Wisit) | itgeist5blog.blogspot.com](
 https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
@@ -135,7 +135,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
 * [แอจไจล์ซามูไร โดย www.agile66.com](https://www.dropbox.com/s/8vdift5avp6wa1d/AgileSamurai1.0.pdf?dl=0)
 
-### AI, Data Mining และ Data science 
+### AI, Data Mining และ Data science
 
 * [คู่มือการใช้งาน Weka Explorer (เอาไว้ใช้ทำ ( Data Mining ) เบื้องต้น เขียนโดย ดร. เอกสิทธิ์ พัชรวงศ์ศักดา]( http://dataminingtrend.com/2014/free-weka-book/)
 * [ตำราเรียน ปัญญาประดิษฐ์ เขียนโดยอาจารย์ บุญเสริม กิจศิริกุล](https://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
@@ -174,8 +174,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
 ## วีดีโอสอนฟรีเป์นภาษาไทย
 
-*** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**  
-https://www.apple.com/th/support/itunes-u/using/ 
+*** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**
+https://www.apple.com/th/support/itunes-u/using/
 
 ### PHP
 
@@ -185,7 +185,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 * [ภาษา C โดย SIPA](https://www.youtube.com/watch?v=5HoW47BB9ME&list=PLpuOOb1LNswPrfGbihe4umjfmtAX8Ccwc)
 
-### ภาษา C# 
+### ภาษา C#
 
 * [โดย Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists?sort=dd&view=50&shelf_id=1)
 
@@ -216,7 +216,7 @@ https://www.apple.com/th/support/itunes-u/using/
 
 * [Java สอนโดย รศ.ดร.ประเสริฐ คณาวัฒนไชย](https://www.youtube.com/watch?v=xFvWZQdkLRM&list=PLoTScYm9O0GF26yW0zVc2rzjkygafsILN)
 * การใช้ JPA ของภาษา Java  - เอาไว้ติดต่อฐานข้อมูลแบบ Object-Relational Mapping (ORM)
-  - https://www.youtube.com/watch?v=MIXk5s0gg18 
+  - https://www.youtube.com/watch?v=MIXk5s0gg18
   - https://www.youtube.com/watch?v=_DDsFVMs6mQ
 * [การเขียนโปรแกรมด้วยภาษาจาวา โดย รศ.ดร.สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm) สอนดีมาก พยายามใช้คำภาษาไทยเยอะสุดเพื่อไม่ให้คนที่รู้ภาษาอังกฤษน้อยงง และมีเนื้อหาที่ครอบคลุมกระทัดรัด
 
@@ -240,8 +240,9 @@ https://www.apple.com/th/support/itunes-u/using/
 
 ### Data structure และ algorithm
 
-* [การออกแบบอัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬาฯ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
-* [โครงสร้างข้อมูล (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬาฯ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
+* [การออกแบบอัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬ](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Algorithms/index.htm)
+* [โครงสร้างข้อมูล (ฉบับจาวา) ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล จากจุฬา](https://www.cp.eng.chula.ac.th/~somchai/ULearn/DataStructures/index.htm)
+* [โครงสร้างข้อมูลด้วยภาษา C++ โดย ผศ.ดร. วิรัตน์ จารีวงศ์ไพบูลย์​ มหาวิทยาลัยธรรมศาสตร์](https://itunes.apple.com/au/podcast/cs213-%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3-%E0%B8%B2%E0%B8%87%E0%B8%82-%E0%B8%AD%E0%B8%A1-%E0%B8%A5%E0%B8%94-%E0%B8%A7%E0%B8%A2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-c/id1099716528) | [EPUB](http://ocw.tu.ac.th/emc/ShelfTU/ebook12/ebook/CS213.epub)
 
 ### Network
 
@@ -256,7 +257,7 @@ https://www.apple.com/th/support/itunes-u/using/
    - [Machine Learning Workshop (Part 3)](https://www.facebook.com/bigdataexperience/videos/1569814079987788/)
    - [Machine Learning Workshop (Part 4)](https://www.facebook.com/bigdataexperience/videos/1569818656653997/)
    - [ไสลด์ประกอบการบรรยายเป็น PDF](https://drive.google.com/drive/folders/0B_K_-nCSCP1Dcjlua19VUlFRNG8)
-* [อธิบาย Machine Learning สำหรับผู้เริ่มต้น](http://ta.virot.me/fb-ai-explainer/) 
+* [อธิบาย Machine Learning สำหรับผู้เริ่มต้น](http://ta.virot.me/fb-ai-explainer/)
 * [Machine Learning Curriculum](https://off99555.github.io/machine-learning-curriculum/)
   List รวมลิงค์ขนาดใหญ่เกี่ยวกับ Machine Learning (ภาษาอังกฤษเป็นหลัก) Machine Learning เป็นสาขาย่อยของ AI ว่าด้วยการทำให้เครื่องคอมพิวเตอร์เรียนรู้ได้ จากการวิเคราะห์ data จำนวนมาก
   เรียกง่ายๆคือวิชาสถิติสมัยใหม่ เทคนิคที่มีบทบาทที่สุดในโลกปัจจุบันคือการนำเรื่องอนุพันธ์ในแคลคูลัส (Differential Calculus)
@@ -274,13 +275,13 @@ https://www.apple.com/th/support/itunes-u/using/
 [github](https://github.com/ekapolc/nlp_course)
 * [TechTalk 42 - Deep Learning Workshop](https://www.youtube.com/watch?v=CB7DKG7bPzo)
 
-### Agile 
+### Agile
 
 * [Playlist  8 คลิป สอน Agile โดยคุณ Chokchai Phatharamalai (Juacompe)  เป็นโครงการที่ม. เกษตรศาสตร์ ร่วมมือกับ SIPA](https://www.youtube.com/watch?v=HBSjj1LFDZY&list=PL3opfZU99soltwbe-9CV6DUeVTWd-TCiT&index=1)
 
 ### อื่นๆ ที่น่าสนใจ
 
-* 10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto (IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd 
+* 10 เทคนิคยอดนิยม สำหรับ Secure Web App (OWASP Top Proactive Control & Case Study) บรรยายที่ตึกวิศวะจุฬาฯ 100 ปี วิทยากรโดยคุณ Pichaya Morimoto (IT Security Consultant, SEC Consuit (Thailand) Co.,Ltd
     - https://www.youtube.com/playlist?list=PLmB7S3pD-s_yjstDZZZAYGhNi7kw2EFv1
 
 * Google Engine โดย SIPA
@@ -299,14 +300,14 @@ https://www.apple.com/th/support/itunes-u/using/
 * [Computer Science (lectures) ฟรีจากทั่วโลกครับ - แนะนำลิงค์นี้เลย](https://github.com/Developer-Y/cs-video-courses) ไม่ว่าจะเป็น MIT, Harvard, Stanford, UCBerkeley, University of Washington ฯลฯ ของธรรมศาสตร์ก็มีด้วยนะ และมหาวิทยาลัยอื่นๆ อีกเยอะแยะมากมาย มันจะคละๆ กันไปหลายวิชาหน่อย
 
 * [edX.org เปิดคอร์สฟรีด้านการเขียนโปรแกรมฟรีๆ หลายตัวด้วยกัน](https://www.edx.org/computer-science-education-week)
-* [คอร์สสอนฟรีจากไมโครซอฟต์ เยอะมากขอบอก](https://mva.microsoft.com/) ถ้าเข้าไปดูตามลิงค์นี้ 
+* [คอร์สสอนฟรีจากไมโครซอฟต์ เยอะมากขอบอก](https://mva.microsoft.com/) ถ้าเข้าไปดูตามลิงค์นี้
 https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 จะเห็นหลายชื่อ คอร์สของไมโครซอฟต์ ที่เหมาะกับโปรแกรมเมอร์หลายตัวที่เดียวเชียว มากกว่า 200 กว่าคอร์ส เช่น C#, Xamarin,Basic,Angular, React, powershell,ASP.NET,Node.js, Big Data, สร้างเกมโดย Construct 2 และหลายตัว ฯลฯ เลือกดูเอานะ
 * [คอร์สเรียน Quantum Computing ของ MIT (ร่วมมือกับ IBM)](https://quantumcurriculum.mit.edu/)
 * [คอร์สเรียนจาก Microsoft](https://academy.microsoft.com/en-us/professional-program/tracks/)
 
 ## คอร์สเรียนฟรีจากทั่วโลก
- 
+
 รายชื่อเว็บไซต์ที่เปิดคอร์สสอนการโค้ดดิ่ง (ภาษาอังกฤษ) น่าจะเป็นประโยชน์ มีทั้งฟรี และเสียเงิน คละกันไป
 
 * [สอนเด็กเขียนโปรแกรม](https://code.org/)
@@ -360,9 +361,9 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [โครงการมหาวิทยาลัยไซเบอร์ไทย](http://www.thaicyberu.go.th/)
 * [คอร์สเรียนออนไลน์ฟรี ที่จุฬาลงกรณ์มหาวิทยาลัย](https://mooc.chula.ac.th/)
 
-## แนะนำกลุ่ม facebook 
+## แนะนำกลุ่ม facebook
 
-กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไอที 
+กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไอที
 
 * [สมาคมโปรแกรมเมอร์ไทย - กลุ่มรวมวงการโปรแกรมเมอร์ใหญ่ที่สุดในไทย](https://www.facebook.com/groups/ThaiPGAssociateSociety/)
 * [Programmer Thai Blood - กลุ่มรวมโปรแกรมเมอร์ที่ใหญ่แห่งหนึ่ง](https://www.facebook.com/groups/programmerthai/)
@@ -405,4 +406,3 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ### Security & Hacker
 * [อยากแฮกเป็นจุงเบย-ศึกษาอะไรดี](https://www.facebook.com/notes/2600-thailand/faq-อยากแฮกเป็นจุงเบย-ศึกษาอะไรดี/316524601840908/)
-
