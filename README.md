@@ -376,13 +376,11 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ### Python
 * [แหล่งเรียนรู้ Python เบื้องต้นที่ละเอียดมากๆ ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/python)
-##
+* [แหล่งเรียนรู้ Autodesk Maya ด้วยภาษา Python ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/maya)
+* [แหล่งเรียนรู้ Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/kanrianrukhongkhrueang)
 
 ### JavaScript
 * [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
-
-### Python
-* [ภาษา python ไล่ตั้งแต่ปูพื้นฐาน ไปยังถึง Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/kanrianrukhongkhrueang)
 
 ### Java and Android
 * [ทำไม Android Developer ควรรู้และเข้าใจใน Activity Life Cycle](http://www.akexorcist.com/2016/04/why-do-we-need-to-know-about-activity-life-cycle-th.html)
@@ -393,14 +391,12 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [แจ้งเตือน Notification ผ่าน FCM](https://medium.com/20scoops-cnx/android-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99-notification-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99-fcm-b4f41729537c)
 
 ### GIT
-
 * [Git คืออะไร … Git is your friend](https://medium.com/@pakin/git-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-git-is-your-friend-c609c5f8efea)
 * [มาเรียนรู้ Git แบบง่ายๆกันเถอะ](https://blog.nextzy.me/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-git-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-427398e62f82)
 * [Git คืออะไร ? + พร้อมสอนใช้งาน Git และ Github](https://devahoy.com/posts/introduction-to-git-and-github/)
 * [Try Git: Git Tutorial](https://try.github.io)
 
 ### DOCKER
-
 * [ปีนี้ยังไม่รู้จะเรียนรู้อะไร? มาเริ่มเรียนวิธีใช้ Docker กันได้ฟรีๆ เพื่ออนาคตที่ดีขึ้น!](https://www.techtalkthai.com/start-learning-docker-in-2017/)
 * [Try Docker](https://www.codeschool.com/courses/try-docker)
 
