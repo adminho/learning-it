@@ -219,6 +219,7 @@ https://www.apple.com/th/support/itunes-u/using/
   - https://www.youtube.com/watch?v=MIXk5s0gg18
   - https://www.youtube.com/watch?v=_DDsFVMs6mQ
 * [การเขียนโปรแกรมด้วยภาษาจาวา โดย รศ.ดร.สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/~somchai/ULearn/Programming/index.htm) สอนดีมาก พยายามใช้คำภาษาไทยเยอะสุดเพื่อไม่ให้คนที่รู้ภาษาอังกฤษน้อยงง และมีเนื้อหาที่ครอบคลุมกระทัดรัด
+* [Computer Programming (JAVA) the Series โดย Aj. NesT the Series ](https://www.youtube.com/playlist?list=PLXa5k-zW5T_0ASfs_4zaeqF73Jv3hXYr3&fbclid=IwAR1XspruB56Jml-Bf7AnXsBJmPByDZLtANpb946it3ZKO1WIX1y6KFVv_5M)
 
 ### ภาษา R
 
