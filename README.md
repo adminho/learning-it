@@ -32,6 +32,7 @@
 * [สอนวิชาอื่นๆ ของคุณ Kong Ruksiam](https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q/playlists)
 * [คอร์สทั้งหมดของ โค้ชเอก Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
 * [Course Indy](https://www.youtube.com/user/banbansoft/playlists)
+* [Aj. NesT the Series](https://www.youtube.com/channel/UCH9x2FbR1C3zN4rFL9bVuxQ)
 
 ## หนังสือ Ebooks ฟรี ภาษาไทย
 
