@@ -181,7 +181,7 @@ https://www.apple.com/th/support/itunes-u/using/
 ### PHP
 
 * [Laravel  โดย SIPA](https://www.youtube.com/watch?v=C3vmNI5Whus&index=1&list=PLtM3znnbMbVUCSplQZ4Wl5KwOj6Inz__n)
-* Laravel โดย SirKeng ME เหมาะสำหรับผู้เริ่มต้น [youtube](https://sirkeng.me/youtube/list/laravel)  หรือ [facebook](https://www.facebook.com/sirkeng.me/videos/)
+* Laravel โดย SirKeng ME เหมาะสำหรับผู้เริ่มต้น ดูได้ที่ [youtube](https://sirkeng.me/youtube/list/laravel)  หรือ [facebook](https://www.facebook.com/sirkeng.me/videos/)
 
 ### ภาษา C
 
