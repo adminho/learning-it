@@ -115,6 +115,8 @@
 * [E-Book เกี่ยวกับ Introduction To MS. Azure สำหรับท่านที่สนใจเรื่อง Cloud โดยเฉพาะ Microsoft Azure
 เขียนโดย ITGeist 5 (By Wisit) | itgeist5blog.blogspot.com](
 https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
+* [หนังสือ Computer Networking How to (ภาษาไทย) ของารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/NetworkHowTo/NetworkHowTo.pdf)
+
 
 ### Data structure และ algorithm
 * [โครงสร้างข้อมูล: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/books/ds-vjjv/)
@@ -131,6 +133,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [เรียนรู้และลองเล่น Arduino เบื้องต้น (ฉบับปรับปรุงครั้งที่ 1) โดยครูประภาส สุวรรณเพชร](http://www.praphas.com/index.php/2008-11-03-14-25-25/51-arduino/97-2-arduino-1)
 * [เล่า สร้าง เรื่องบอร์ดควบคุมขนาดเล็ก โดย อ.อดิศักดิ์ ชิณะวงค์](http://www.electoday.com/index.php/topic,16007.0.html)
 * [เอกสารประกอบการสอนวิชาไมโครคอนโทรลเลอร์ (MCS-51) โดยครูประภาส สุวรรณเพชร](http://www.electoday.com/index.php/topic,16119.0.html)
+* [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 โดยอาจารย์ วิสิทธิ์ เวียงนาค](http://206.189.82.139/ebook/IOT_EBOOK_VisitW_RSU.zip)
+* [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 อีกเล่มของอาจารย์ วิสิทธิ์ เวียงนาค](http://206.189.82.139/ebook/IOT_ESP32_EBOOK_VisitW_RSU.zip)
 
 ### Software Engineer
 
