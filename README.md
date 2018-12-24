@@ -135,7 +135,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [เล่า สร้าง เรื่องบอร์ดควบคุมขนาดเล็ก โดย อาจารย์ อดิศักดิ์ ชิณะวงค์](http://www.adisak51.com/Download/Adisak51_Arduino.pdf)
 * [เอกสาร MCS-51 โดย อาจารย์ อดิศักดิ์ ชิณะวงค์](http://www.adisak51.com/mcs51.html)
 * [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 โดยอาจารย์ วิสิทธิ์ เวียงนาค](http://206.189.82.139/ebook/IOT_EBOOK_VisitW_RSU.zip)
-* [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 อีกเล่มของอาจารย์ วิสิทธิ์ เวียงนาค](http://206.189.82.139/ebook/IOT_ESP32_EBOOK_VisitW_RSU.zip)
+* [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 อีกเล่มของอาจารย์ วิสิทธิ์ เวียงนาค (มี 3 เล่ม)](http://206.189.82.139/ebook/IOT_ESP32_EBOOK_VisitW_RSU.zip)
 
 ### Software Engineer
 
