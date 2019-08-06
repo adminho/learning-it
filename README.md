@@ -384,7 +384,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [แหล่งเรียนรู้ Python เบื้องต้นที่ละเอียดมากๆ ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/python)
 * [แหล่งเรียนรู้ Autodesk Maya ด้วยภาษา Python ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/maya)
 * [แหล่งเรียนรู้ Machine learning -สาขาหนึ่งที่นิยมมากในตอนนี้ของ AI ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/kanrianrukhongkhrueang)
-* ไพธอนเพื่อคนไทย ของคุณ phyblas https://python-thailand.github.io และ https://github.com/python-thailand
+* Python เพื่อคนไทย ของคุณ phyblas https://python-thailand.github.io และ https://github.com/python-thailand
 
 ### JavaScript
 * [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
