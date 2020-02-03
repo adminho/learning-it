@@ -123,6 +123,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 ### Database
 
 * [การใช้งาน_MongoDB_เบื้องต้น](http://www.ebooks.in.th/ebook/37861/การใช้งาน_MongoDB_เบื้องต้น/)
+* [หนังสือ practical-sql ของเพจ DataRockie](https://datarockie.com/practical-sql-ebook/)
 
 ### IoT (internet of things)  and Embedded system
 
