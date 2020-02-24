@@ -102,7 +102,7 @@
 
 ### UNIX
 
-* [หนังสือ Fundamentals of UNIX ฟรี ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/Unix/FundaOfUnix.pdf)
+* [หนังสือ Fundamentals of UNIX ฟรี ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://staff.informatics.buu.ac.th/~nutthanon/88723059/FundaOfUnix.pdf)
 
 ### Server and Network
 
