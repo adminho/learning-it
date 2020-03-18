@@ -93,7 +93,7 @@
 
 ### Python
 
-* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://isan.msu.ac.th/suchart/Python/ProgrammingExpertwithPython.pdf)
+* [หนังสือเชียวชาญการเขียนโปรแกรมด้วยไพธอน (Python) ของอาจารย์ ผศ. สุชาติ คุ้มมะณี - ขอแนะนำเล่มนี้เลย](https://drive.google.com/drive/folders/1GfhhNOVBZpfkrvfleBvYiCYsuqqnKoX4)
 * [Python ๑๐๑  หนังสือสอนเขียนโปรแกรมภาษา Python ใช้ประกอบการเรียนวิชา 2110101 Computer Programming ของวิศวกรรมคอมพิวเตอร์ จุฬา เขียนโดยอาจารย์ กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล และ สุกรี สินธุภิญโญ](https://www.cp.eng.chula.ac.th/books/python101/)
 
 ### ภาษาโปรแกรมอื่นๆ
@@ -102,13 +102,13 @@
 
 ### UNIX
 
-* [หนังสือ Fundamentals of UNIX ฟรี ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://staff.informatics.buu.ac.th/~nutthanon/88723059/FundaOfUnix.pdf)
+* [หนังสือ Fundamentals of UNIX ฟรี ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://drive.google.com/drive/folders/1gsKVFQHNHDUTCDvQ-ABE3xCHt3nGvfFV)
 
 ### Server and Network
 
-* [หนังสือ Network How to ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/NetworkHowTo/NetworkHowTo.pdf)
-* [วิดีโอ work shop ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/NetworkHowTo/Workshop/)
-* [ตัวอย่าง LAB ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://isan.msu.ac.th/suchart/NetworkHowTo/LAB/)
+* [หนังสือ Network How to ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://drive.google.com/drive/folders/1DvdlCw_ExzjxSsgruLvFSoVw8F4ruhhK)
+* [วิดีโอ work shop ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://drive.google.com/drive/folders/1DvdlCw_ExzjxSsgruLvFSoVw8F4ruhhK)
+* [ตัวอย่าง LAB ของอาจารย์ ผศ. สุชาติ คุ้มมะณี](https://drive.google.com/drive/folders/1DvdlCw_ExzjxSsgruLvFSoVw8F4ruhhK)
 * [คู่มือฝึกอบรมปฏิบัติการ Linux Server Security เขียนโดย บุญลือ อยู่คงคง](http://ebooks.in.th/ebook/584/คู่มือฝึกอบรมปฏิบัติการ_Linux_Server_Security/)
 * [คู่มือพลเมืองเน็ต: เข้าใจเน็ต และใช้เน็ตให้ปลอดภัย เขียนโดย วสันต์ ลิ่วลมไพศาล และ สฤณี อาชวานันทกุล](https://thainetizen.org/wp-content/uploads/2013/05/netizen-handbook-201304.pdf)
 * [คู่มือการใช้งาน WiNginx เขียนโดย Suparat triamchanchai](http://www.ebooks.in.th/ebook/28367/คู่มือการใช้งาน_WiNginx/)
