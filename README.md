@@ -175,7 +175,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [แจกฟรีหนังสือคอมหลายวิชา น่าสนใจมาก รวบรวมมาจาก Stack Overflow](http://goalkicker.com/)
 * [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 * [O’Reilly](https://www.oreilly.com/programming/free/)
-
+* [Ebook แจกฟรีของคุณ Allen B. Downey](https://greenteapress.com/wp/)
 
 ## วีดีโอสอนฟรีเป์นภาษาไทย
 
