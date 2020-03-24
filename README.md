@@ -144,6 +144,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 
 * [คู่มือการใช้งาน Weka Explorer (เอาไว้ใช้ทำ ( Data Mining ) เบื้องต้น เขียนโดย ดร. เอกสิทธิ์ พัชรวงศ์ศักดา]( http://dataminingtrend.com/2014/free-weka-book/)
 * [ตำราเรียน ปัญญาประดิษฐ์ เขียนโดยอาจารย์ บุญเสริม กิจศิริกุล](https://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
+* [Artificail Intelligence: Swarm Intelligence ปัญญาประดิษฐ์: ปัญญาเชิงกลุ่ม เขียนโดย ศ. ดร. บุญเจริญ ศิริเนาวกุล](https://drive.google.com/file/d/1QKMnQXElt3OkOAQRatYCjxpHVftz5TPs/view)
 
 ### หนังสืออื่นๆ เกี่ยวกับคอม
 
