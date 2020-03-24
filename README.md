@@ -384,6 +384,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 
 ### JavaScript
 * [JavaSctipt มาตรฐาน ES5,ES6,ES8](https://github.com/adminho/javascript/)
+* [แหล่งเรียนรู้ JavaScript ของคุณ phyblas](https://phyblas.hinaboshi.com/saraban/javascript)
 
 ### Java and Android
 * [ทำไม Android Developer ควรรู้และเข้าใจใน Activity Life Cycle](http://www.akexorcist.com/2016/04/why-do-we-need-to-know-about-activity-life-cycle-th.html)
