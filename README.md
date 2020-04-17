@@ -370,6 +370,19 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [โครงการมหาวิทยาลัยไซเบอร์ไทย](http://www.thaicyberu.go.th/)
 * [คอร์สเรียนออนไลน์ฟรี ที่จุฬาลงกรณ์มหาวิทยาลัย](https://mooc.chula.ac.th/)
 
+##
+* [The Chulalongkorn University Intellectual Repository (CUIR)](https://cuir.car.chula.ac.th)
+* [Thammasat University Digital Collections](https://digital.library.tu.ac.th/tu_dc/frontend/)
+* [Dspace จากมหาวิทยาลัยศิลปากร]( http://www.graduate.su.ac.th/dspace/index.php)
+* [PSU Knowledge Bank](http://kb.psu.ac.th/psukb/)
+* [NU Digital Repository จากมหาวิทยาลัยนเรศวร](http://nuir.lib.nu.ac.th/dspace/)
+* [TDC หรือ Thai Digital Collection](https://tdc.thailis.or.th/tdc/index.php)
+* [Research Gateway Common Service จากสำนักงานการวิจัยแห่งชาติ (วช.)] (https://www.researchgateway.in.th/)
+* [ศูนย์ข้อมูลการวิจัย Digital (วช.)](https://dric.nrct.go.th/index.php?/Index)
+* [Thai Journal Online (ThaiJO)](https://www.tci-thaijo.org)
+* [ThaiEdResearch จากสำนักงานเลขาธิการสภาการศึกษา]( http://www.thaiedresearch.org/index.php)
+ที่มา https://scontent.fnak3-1.fna.fbcdn.net/v/t1.0-9/p960x960/90087175_145970713565451_940560961234796544_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=q3Fvm-1pk3YAX_f3FX1&_nc_ht=scontent.fnak3-1.fna&_nc_tp=6&oh=934d99fd242120e01120110614586e23&oe=5EBCEB6D
+
 ## แนะนำกลุ่ม facebook
 
 กลุ่มรวมคนไอทีสำคัญๆ เอาไว้ปรึกษาปัญหาด้านไอที
