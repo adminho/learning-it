@@ -177,7 +177,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 * [O’Reilly](https://www.oreilly.com/programming/free/)
 * [Ebook แจกฟรีของคุณ Allen B. Downey](https://greenteapress.com/wp/)
-* [free-programming-books] https://github.com/EbookFoundation/free-programming-books
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ## วีดีโอสอนฟรีเป์นภาษาไทย
 
@@ -370,7 +370,8 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [โครงการมหาวิทยาลัยไซเบอร์ไทย](http://www.thaicyberu.go.th/)
 * [คอร์สเรียนออนไลน์ฟรี ที่จุฬาลงกรณ์มหาวิทยาลัย](https://mooc.chula.ac.th/)
 
-##
+## คลังข้อมูลสำหรับการทำวิจัยและวิทยานิพนธ์
+
 * [The Chulalongkorn University Intellectual Repository (CUIR)](https://cuir.car.chula.ac.th)
 * [Thammasat University Digital Collections](https://digital.library.tu.ac.th/tu_dc/frontend/)
 * [Dspace จากมหาวิทยาลัยศิลปากร]( http://www.graduate.su.ac.th/dspace/index.php)
