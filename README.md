@@ -178,6 +178,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [O’Reilly](https://www.oreilly.com/programming/free/)
 * [Ebook แจกฟรีของคุณ Allen B. Downey](https://greenteapress.com/wp/)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+* [E-Book ออนไลน์สำหรับสายโปรแกรมเมอร์โดยเฉพาะ](http://freecomputerbooks.com/)
 
 ## วีดีโอสอนฟรีเป์นภาษาไทย
 
