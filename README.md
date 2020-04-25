@@ -379,7 +379,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [PSU Knowledge Bank](http://kb.psu.ac.th/psukb/)
 * [NU Digital Repository จากมหาวิทยาลัยนเรศวร](http://nuir.lib.nu.ac.th/dspace/)
 * [TDC หรือ Thai Digital Collection](https://tdc.thailis.or.th/tdc/index.php)
-* [Research Gateway Common Service จากสำนักงานการวิจัยแห่งชาติ (วช.)] (https://www.researchgateway.in.th/)
+* [Research Gateway Common Service จากสำนักงานการวิจัยแห่งชาติ (วช.)](https://www.researchgateway.in.th/)
 * [ศูนย์ข้อมูลการวิจัย Digital (วช.)](https://dric.nrct.go.th/index.php?/Index)
 * [Thai Journal Online (ThaiJO)](https://www.tci-thaijo.org)
 * [ThaiEdResearch จากสำนักงานเลขาธิการสภาการศึกษา]( http://www.thaiedresearch.org/index.php)
