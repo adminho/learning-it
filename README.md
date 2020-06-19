@@ -180,7 +180,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [E-Book ออนไลน์สำหรับสายโปรแกรมเมอร์โดยเฉพาะ](http://freecomputerbooks.com/)
 
-## วีดีโอสอนฟรีเป์นภาษาไทย
+## วีดีโอสอนฟรีเป็นภาษาไทย
 
 *** **บางลิงค์ต้องติดตั้ง iTune U ก่อนนะครัช ถึงจะดูได้ ให้โหลดโปรแกรมก่อนได้ที่**
 https://www.apple.com/th/support/itunes-u/using/
