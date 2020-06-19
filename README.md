@@ -12,7 +12,7 @@
 * :fire: [Chanel ด้านคอมบน Youtube](#chanel-ด้านคอมบน-youtube)
 * :books: [หนังสือ Ebooks ฟรี ภาษาไทย](#หนังสือ-ebooks-ฟรี-ภาษาไทย)
 * :books: [รวมลิงค์ Text book ฟรี](#รวมลิงค์-text-book-ฟรี)
-* :movie_camera: [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป์นภาษาไทย)
+* :movie_camera: [วีดีโอสอนเป็นภาษาไทย](#วีดีโอสอนฟรีเป็นภาษาไทย)
 * :movie_camera: [วีดีโอสอนเป็นภาษาอังกฤษ](#วีดีโอสอนเป็นภาษาอังกฤษ)
 * :fire: [คอร์สเรียนฟรีจากทั่วโลก](#คอร์สเรียนฟรีจากทั่วโลก)
 * :fire: [แหล่งความรู้อื่นๆ](#แหล่งความรู้อื่นๆ)
@@ -363,7 +363,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Harvard Open Courses](http://online-learning.harvard.edu/)
 * [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  บน [Youtube](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
-* [Stadford Free Courses](http://online.stanford.edu/courses)
+* [Standford Free Courses](http://online.stanford.edu/courses)
 * [Open Yale Courses (คอร์สด้านเกี่ยวกับคอมยังไม่มี)](http://oyc.yale.edu/)
 
 ของมหาวิทยาลัยไทย
