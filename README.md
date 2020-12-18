@@ -161,7 +161,6 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [คู่มือ Cyber Security สำหรับประชาชน โดย กสทช.](http://www.muit.mahidol.ac.th/announcement/CyberSecurityPeople.pdf)
 * [การพัฒนา AR เล่ม1-2 ดร.ก้องเกียรติ หิรัญเกิด เขียน นรินธน์ นนทมาลย์ เรียบเรียง](https://drive.google.com/drive/folders/14-nuIReqypxSPATtde28JwLEivcxkljo?usp=sharing)
 * [Blockchain + bitcoin โดย คุณ Apaichon Punopas](https://docs.google.com/presentation/d/10Z8iWXjj82lWRuO19nZ8lc5SdOnjHaPytpUIJpaLNbQ/edit#slide=id.p)
-* [บทแนะนำ LATEX 2ε ฉบับไม่ค่อยย่อ](http://ctan.mirrors.hoobly.com/info/lshort/thai/lsh132.pdf)
 
 ## รวมลิงค์ Text book ฟรี
 
@@ -364,7 +363,7 @@ https://mva.microsoft.com/search/SearchResults.aspx#!jobf=Developer&lang=1033
 * [Harvard Open Courses](http://online-learning.harvard.edu/)
 * [UC BerkeleyX](https://www.edx.org/school/uc-berkeleyx)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  บน [Youtube](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
-* [Stanford Free Courses](http://online.stanford.edu/courses)
+* [Standford Free Courses](http://online.stanford.edu/courses)
 * [Open Yale Courses (คอร์สด้านเกี่ยวกับคอมยังไม่มี)](http://oyc.yale.edu/)
 
 ของมหาวิทยาลัยไทย
