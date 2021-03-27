@@ -115,6 +115,7 @@
 * [E-Book เกี่ยวกับ Introduction To MS. Azure สำหรับท่านที่สนใจเรื่อง Cloud โดยเฉพาะ Microsoft Azure
 เขียนโดย ITGeist 5 (By Wisit) | itgeist5blog.blogspot.com](
 https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
+* [ตำรารายวิชาการประมวลผลกลุ่มเมฆ (Cloud Computing) ของอาจารย์ อุทาน บูรณศักดิ์ศรี](https://www.ebooks.in.th/51828/ตำรารายวิชาการประมวลผลกลุ่มเมฆ_(Cloud_Computing)/)
 
 ### Data structure และ algorithm
 * [โครงสร้างข้อมูล: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/books/ds-vjjv/)
