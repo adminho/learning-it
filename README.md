@@ -137,6 +137,7 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 โดยอาจารย์ วิสิทธิ์ เวียงนาค](http://206.189.82.139/ebook/IOT_EBOOK_VisitW_RSU.zip)
 * [เอกสารเกี่ยวกับ IoT และบอร์ด ESP32 อีกเล่มของอาจารย์ วิสิทธิ์ เวียงนาค (มี 3 เล่ม)](http://206.189.82.139/ebook/IOT_ESP32_EBOOK_VisitW_RSU.zip)
 
+
 ### Software Engineer
 
 * [แอจไจล์ซามูไร โดย www.agile66.com](https://www.dropbox.com/s/8vdift5avp6wa1d/AgileSamurai1.0.pdf?dl=0)
@@ -146,6 +147,8 @@ https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [คู่มือการใช้งาน Weka Explorer (เอาไว้ใช้ทำ ( Data Mining ) เบื้องต้น เขียนโดย ดร. เอกสิทธิ์ พัชรวงศ์ศักดา]( http://dataminingtrend.com/2014/free-weka-book/)
 * [ตำราเรียน ปัญญาประดิษฐ์ เขียนโดยอาจารย์ บุญเสริม กิจศิริกุล](https://www.cp.eng.chula.ac.th/~boonserm/teaching/ai1.0.2.pdf)
 * [Artificail Intelligence: Swarm Intelligence ปัญญาประดิษฐ์: ปัญญาเชิงกลุ่ม เขียนโดย ศ. ดร. บุญเจริญ ศิริเนาวกุล](https://drive.google.com/file/d/1QKMnQXElt3OkOAQRatYCjxpHVftz5TPs/view)
+* เอกสารประกอบการสอน วิชา 344-371 ปัญญาประดิษฐ์ 1 (ARTIFICIAL INTELLIGENCE I) ของอาจารย์ จารุณี ดวงสุวรรณ(http://staff.cs.psu.ac.th/jarunee/344-371%20AI-Ebook.pdf)
+* 
 
 ### หนังสืออื่นๆ เกี่ยวกับคอม
 
