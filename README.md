@@ -86,6 +86,10 @@
 * [สอน C และ C++ เนื้อหาเก่าหน่อย เพราะเดี่ยวมาตรฐานตัวใหม่ก็ออกมา C++ 17](http://lovelywal.exteen.com/20080517/e-book-c-c)
 * [การเขียนโปรแกรมภาษาซี (เก่าหน่อยตั้งแต่ปี 2545) เขียนโดย วิจักษณ์ ศรีสัจจะเลิศวาจา และดุษฎี ประเสริฐธิติพงษ์](http://61.7.241.229/CProgrammingV2.pdf)
 
+## C#
+* [เรียนรู้ด้วยตนเอง OOP C# ASP .NET เขียนโดย โดย อ. ลาภลอย วานิชอังกูร ](https://drive.google.com/file/d/11Sp9h8aM2Aap7PunoT0qdU5Zb88ge8AU/view?fbclid=IwAR0cqzTTHLW8ewZ8DnhcUPuvlx7Jaw8dU6Y8uQSaCh-1-r__Kzvc7uxPzF4)
+
+
 ### Swift and IOS
 
 * [Thai Swift เขียนโดย Tanasak Tantitarntong (เนื้อหาเก่าหน่อย เพราะอนาคตก็ Swift 3 แหละ)](https://leanpub.com/ThaiSwift)
@@ -117,7 +121,7 @@
 https://1drv.ms/f/s!An_wkWqol3F3kLhKSF1wl62SOIo8aA)
 * [ตำรารายวิชาการประมวลผลกลุ่มเมฆ (Cloud Computing) ของอาจารย์ อุทาน บูรณศักดิ์ศรี](https://www.ebooks.in.th/51828/ตำรารายวิชาการประมวลผลกลุ่มเมฆ_(Cloud_Computing)/)
 
-### Data structure และ algorithm
+### Structure และ algorithm
 * [โครงสร้างข้อมูล: ฉบับวาจาจาวา ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/books/ds-vjjv/)
 * [การออกแบบและวิเคราะห์อัลกอริทึม ของรศ. ดร. สมชาย ประสิทธิ์จูตระกูล](https://www.cp.eng.chula.ac.th/~somchai/2110427/2542/Lectures/Slides/pdf/lnotes-98.pdf)
 
